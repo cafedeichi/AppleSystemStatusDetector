@@ -62,7 +62,7 @@ function getData(html) {
 
         let result = '';
         if(issues.length == 0){
-            result = 'All services are operating normally.'
+            result = 'All services are operating normally.\n'
         } else {
             result = 'Some issues detected.\n' + issues;
         }
