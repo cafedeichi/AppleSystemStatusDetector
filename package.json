@@ -1,0 +1,29 @@
+{
+  "name": "AppleServiceStatusDetector",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@actions/core": "^1.2.6",
+    "cheerio": "^1.0.0-rc.3",
+    "fs": "0.0.1-security",
+    "nightmare": "^3.0.2",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "description": "Checking hourly for updates to Apple Service Status",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cafedeichi/AppleServiceStatusDetector.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cafedeichi/AppleServiceStatusDetector/issues"
+  },
+  "homepage": "https://github.com/cafedeichi/AppleServiceStatusDetector#readme"
+}

@@ -1,0 +1,57 @@
+name: App System Status
+on:
+  schedule:
+    # Every 30 minutes
+    - cron: '0,30 * * * *'
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: macOS-latest
+    steps:
+      - name: Git check-out
+        uses: actions/checkout@master
+      - name: Setup node
+        uses: actions/setup-node@master
+        with:
+          node-version: '12.x'
+      - name: Install npm packages
+        run: npm install
+      - name: Check updates
+        id: check-updates
+        run: npm start
+      - name: Git check-in
+        id: git-check-in
+        if: success()
+        env:
+          GIT_OWNER_EMAIL: ${{ secrets.GIT_OWNER_EMAIL }}
+          PUSH_TOKEN: ${{ secrets.PUSH_TOKEN }}
+          WEBHOOK_URL: ${{ secrets.WEBHOOK_URL }}
+        run: |
+          git config user.email "$GIT_OWNER_EMAIL"
+          git config user.name "cafedeichi"
+          if [[ `git status --porcelain` ]]; then
+              git add .
+              git commit -a -m "Updated status detected."
+              git remote rm origin
+              git remote add origin https://cafedeichi:$PUSH_TOKEN@github.com/cafedeichi/AppleSystemStatusDetector.git
+              git push origin HEAD:main
+              echo "Updates found."
+              echo ::set-output name=updated::true
+          else
+              echo "Updates not found."
+              echo ::set-output name=updated::false
+          fi
+      - name: Slack notification
+        if: success() && steps.git-check-in.outputs.updated == 'true'
+        env:
+          CHANNEL: "#apple_system_status"
+          USERNAME: "Apple System Status"
+          ICON_EMOJI: ":green_apple:"
+          TEXT_TITLE: ""
+          TEXT_BODY: "${{ steps.check-updates.outputs.system_status }}${{ steps.check-updates.outputs.developer_system_status }}"
+          WEBHOOK_URL: ${{ secrets.WEBHOOK_URL }}          
+        run: |
+          curl -X POST \
+          --data-urlencode \
+          "payload={\"channel\": \"$CHANNEL\", \"username\": \"$USERNAME\", \"text\": \"$TEXT_TITLE\n$TEXT_BODY\", \"icon_emoji\": \"$ICON_EMOJI\"}" \
+          "$WEBHOOK_URL"
