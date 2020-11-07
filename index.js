@@ -43,7 +43,7 @@ Nightmare(configuration)
 function getData(html) {
     try {
         const $ = cheerio.load(html);
-        const events = $('.event-container').last().children('.event');
+        const events = $('.event');
         let issues = '';
 
         events.each((index, element) => {
