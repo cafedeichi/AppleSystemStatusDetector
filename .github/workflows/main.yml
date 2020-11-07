@@ -32,7 +32,7 @@ jobs:
         run: sudo apt-get install xvfb
       - name: Check updates
         id: check-updates
-        run: xvfb-run --auto-servernum node --harmony index.js
+        run: xvfb-run --server-args="-screen 0 1600x1200x24" --auto-servernum node --harmony index.js
       - name: Git check-in
         id: git-check-in
         if: success()

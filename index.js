@@ -6,8 +6,8 @@ const fs = require('fs');
 
 const configuration = {
     show: false,
-    width: 320,
-    height: 568
+    width: 1600,
+    height: 1200
 }
 const userUrl = 'https://www.apple.com/support/systemstatus/';
 const userFilePath = 'status/userServiceStatus.txt';
@@ -43,20 +43,24 @@ Nightmare(configuration)
 function getData(html) {
     try {
         const $ = cheerio.load(html);
-        const events = $('.event');
+        const events = $('.section-lights').find('.light-container');
         let issues = '';
-
         events.each((index, element) => {
-            let status = '';
-            if ($(element).children().hasClass('event-title')) {
-                status = $(element).first().children('.event-title')
+            let status = $(element).find('.light-content.light-image').children().attr('class');
+            let seriveWithComment = $(element).children().find('.light-link');
+
+            // Logging
+            if(seriveWithComment.length > 0) {
+                console.log(seriveWithComment.text());
             } else {
-                status = $(element)
+                console.log($(element).find('.light-content.light-name').text())
             }
-            status = status.text().replace(' - (Opens in new window)','');
-            console.log(status);
-            if (!status.match('Available') && !status.match('Resolved')) {
-                issues = issues + '- ' + status + '\n';
+
+            // Detect Issues
+            if (!status.match('available') && !status.match('resolved')) {
+                if (seriveWithComment.length > 0) {
+                    issues = issues + seriveWithComment.text() + '\n';
+                }
             }
         })
 
