@@ -6,14 +6,14 @@ on:
   workflow_dispatch:
 jobs:
   build:
-    runs-on: macOS-latest
+    runs-on: ubuntu-latest
     steps:
       - name: Git check-out
         uses: actions/checkout@master
       - name: Setup node
         uses: actions/setup-node@master
         with:
-          node-version: '12.x'
+          node-version: '14.x'
       - name: Cache node modules
         uses: actions/cache@v2
         env:
@@ -28,9 +28,11 @@ jobs:
             ${{ runner.os }}-
       - name: Install npm packages
         run: npm install
+      - name: Install npm xvfb
+        run: sudo apt-get install xvfb
       - name: Check updates
         id: check-updates
-        run: npm start
+        run: xvfb-run --auto-servernum npm start
       - name: Git check-in
         id: git-check-in
         if: success()
