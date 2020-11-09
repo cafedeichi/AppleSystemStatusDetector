@@ -59,7 +59,7 @@ function getData(html) {
             // Detect Issues
             if (!status.match('available') && !status.match('resolved')) {
                 if (seriveWithComment.length > 0) {
-                    issues = issues + seriveWithComment.text() + '\n';
+                    issues = issues  + '- ' + seriveWithComment.text() + '\n';
                 }
             }
         })
