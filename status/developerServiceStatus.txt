@@ -1,4 +1,3 @@
 Some issues detected.
 - Developer Documentation - Outage
-- Developer ID Notary Service - Performance
 - TestFlight - Performance

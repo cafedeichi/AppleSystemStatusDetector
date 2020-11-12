@@ -1,7 +1,5 @@
 Some issues detected.
 - macOS Software Update - Issue
 - Maps Routing & Navigation - Outage
-- Apple Card - Outage
 - Maps Traffic - Outage
-- Apple Pay - Outage
 - iMessage - Issue
