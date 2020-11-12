@@ -1,5 +1,1 @@
-Some issues detected.
-- macOS Software Update - Issue
-- Maps Routing & Navigation - Outage
-- Maps Traffic - Outage
-- iMessage - Issue
+All services are operating normally.

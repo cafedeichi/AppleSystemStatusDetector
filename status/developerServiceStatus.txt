@@ -1,3 +1,2 @@
 Some issues detected.
 - Developer Documentation - Outage
-- TestFlight - Performance
