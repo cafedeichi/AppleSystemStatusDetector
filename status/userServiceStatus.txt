@@ -1,2 +1,1 @@
-Some issues detected.
-- Apple Card - Outage
+All services are operating normally.
