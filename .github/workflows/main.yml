@@ -1,8 +1,8 @@
 name: Apple System Status
 on:
   schedule:
-    # Every 30 minutes
-    - cron: '0,30 * * * *'
+    # Every 10 minutes
+    - cron: '*/10 * * * *'
   workflow_dispatch:
 jobs:
   build:
