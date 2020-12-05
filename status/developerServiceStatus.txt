@@ -3,6 +3,7 @@ Some issues detected.
 - CloudKit Dashboard - Maintenance In Progress
 - Code-level Support - Maintenance In Progress
 - Contact Us - Maintenance In Progress
+- Developer ID Notary Service - Performance
 - Feedback Assistant - Maintenance In Progress
 - MapKit JS Dashboard - Maintenance In Progress
 - Program Enrollment and Renewals - Maintenance In Progress
