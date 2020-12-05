@@ -1,11 +1,1 @@
-Some issues detected.
-- Account - Upcoming Maintenance
-- CloudKit Dashboard - Upcoming Maintenance
-- Code-level Support - Upcoming Maintenance
-- Contact Us - Upcoming Maintenance
-- Feedback Assistant - Upcoming Maintenance
-- MapKit JS Dashboard - Upcoming Maintenance
-- Program Enrollment and Renewals - Upcoming Maintenance
-- Software Downloads - Upcoming Maintenance
-- Xcode Automatic Configuration - Upcoming Maintenance
-- Certificates, Identifiers & Profiles - Upcoming Maintenance
+All services are operating normally.
