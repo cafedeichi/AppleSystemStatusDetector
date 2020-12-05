@@ -4,6 +4,8 @@ Some issues detected.
 - Code-level Support - Maintenance In Progress
 - Contact Us - Maintenance In Progress
 - Developer ID Notary Service - Performance
+- App Store Connect - Maintenance In Progress
+- App Store Connect API - Maintenance In Progress
 - Feedback Assistant - Maintenance In Progress
 - MapKit JS Dashboard - Maintenance In Progress
 - Program Enrollment and Renewals - Maintenance In Progress
