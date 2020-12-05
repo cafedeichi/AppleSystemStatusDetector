@@ -1,14 +1,13 @@
 Some issues detected.
-- Account - Maintenance In Progress
-- CloudKit Dashboard - Maintenance In Progress
-- Code-level Support - Maintenance In Progress
-- Contact Us - Maintenance In Progress
-- Developer ID Notary Service - Performance
-- App Store Connect - Maintenance In Progress
-- App Store Connect API - Maintenance In Progress
-- Feedback Assistant - Maintenance In Progress
-- MapKit JS Dashboard - Maintenance In Progress
-- Program Enrollment and Renewals - Maintenance In Progress
-- Software Downloads - Maintenance In Progress
-- Xcode Automatic Configuration - Maintenance In Progress
-- Certificates, Identifiers & Profiles - Maintenance In Progress
+- Account - Completed Maintenance
+- CloudKit Dashboard - Completed Maintenance
+- Code-level Support - Completed Maintenance
+- Contact Us - Completed Maintenance
+- App Store Connect - Completed Maintenance
+- App Store Connect API - Completed Maintenance
+- Feedback Assistant - Completed Maintenance
+- MapKit JS Dashboard - Completed Maintenance
+- Program Enrollment and Renewals - Completed Maintenance
+- Software Downloads - Completed Maintenance
+- Xcode Automatic Configuration - Completed Maintenance
+- Certificates, Identifiers & Profiles - Completed Maintenance
