@@ -1,11 +1,11 @@
 Some issues detected.
-- Account - Upcoming Maintenance
-- CloudKit Dashboard - Upcoming Maintenance
-- Code-level Support - Upcoming Maintenance
-- Contact Us - Upcoming Maintenance
-- Feedback Assistant - Upcoming Maintenance
-- MapKit JS Dashboard - Upcoming Maintenance
-- Program Enrollment and Renewals - Upcoming Maintenance
-- Software Downloads - Upcoming Maintenance
-- Xcode Automatic Configuration - Upcoming Maintenance
-- Certificates, Identifiers & Profiles - Upcoming Maintenance
+- Account - Maintenance In Progress
+- CloudKit Dashboard - Maintenance In Progress
+- Code-level Support - Maintenance In Progress
+- Contact Us - Maintenance In Progress
+- Feedback Assistant - Maintenance In Progress
+- MapKit JS Dashboard - Maintenance In Progress
+- Program Enrollment and Renewals - Maintenance In Progress
+- Software Downloads - Maintenance In Progress
+- Xcode Automatic Configuration - Maintenance In Progress
+- Certificates, Identifiers & Profiles - Maintenance In Progress
