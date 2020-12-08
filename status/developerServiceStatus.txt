@@ -1,13 +1,1 @@
-Some issues detected.
-- Account - Completed Maintenance
-- CloudKit Dashboard - Completed Maintenance
-- Code-level Support - Completed Maintenance
-- Contact Us - Completed Maintenance
-- App Store Connect - Completed Maintenance
-- App Store Connect API - Completed Maintenance
-- Feedback Assistant - Completed Maintenance
-- MapKit JS Dashboard - Completed Maintenance
-- Program Enrollment and Renewals - Completed Maintenance
-- Software Downloads - Completed Maintenance
-- Xcode Automatic Configuration - Completed Maintenance
-- Certificates, Identifiers & Profiles - Completed Maintenance
+All services are operating normally.
