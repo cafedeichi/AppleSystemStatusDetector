@@ -1,2 +1,1 @@
-Some issues detected.
-- Developer ID Notary Service - Outage
+All services are operating normally.
