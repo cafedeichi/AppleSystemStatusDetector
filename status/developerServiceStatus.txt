@@ -1,3 +1,1 @@
-Some issues detected.
-- App Store Connect App Processing - Outage
-- TestFlight - Outage
+All services are operating normally.
