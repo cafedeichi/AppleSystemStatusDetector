@@ -1,2 +1,1 @@
-Some issues detected.
-- Apple Pay - Outage
+All services are operating normally.
