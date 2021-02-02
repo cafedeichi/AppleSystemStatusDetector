@@ -1,3 +1,2 @@
 Some issues detected.
 - Fleetsmith - Completed Maintenance
-- Apple Card - Outage
