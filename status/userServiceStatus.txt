@@ -1,1 +1,8 @@
-All services are operating normally.
+Some issues detected.
+- App Store - Outage
+- Mac App Store - Outage
+- Apple Books - Outage
+- Apple Music - Outage
+- Apple Music radio - Outage
+- Radio - Outage
+- iTunes Store - Outage
