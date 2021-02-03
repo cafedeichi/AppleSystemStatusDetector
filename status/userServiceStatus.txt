@@ -1,11 +1,11 @@
 Some issues detected.
-- Find My - Outage
-- iWork for iCloud - Outage
-- iCloud Backup - Outage
-- iCloud Bookmarks & Tabs - Outage
-- iCloud Contacts - Outage
-- iCloud Drive - Outage
-- Photos - Outage
-- iCloud Keychain - Outage
-- iCloud Mail - Outage
-- iCloud Notes - Outage
+- Find My - Issue
+- iWork for iCloud - Issue
+- iCloud Backup - Issue
+- iCloud Bookmarks & Tabs - Issue
+- iCloud Contacts - Issue
+- iCloud Drive - Issue
+- Photos - Issue
+- iCloud Keychain - Issue
+- iCloud Mail - Issue
+- iCloud Notes - Issue
