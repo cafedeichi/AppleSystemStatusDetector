@@ -1,2 +1,1 @@
-Some issues detected.
-- Fleetsmith - Completed Maintenance
+All services are operating normally.
