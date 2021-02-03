@@ -10,6 +10,4 @@ Some issues detected.
 - iCloud Keychain - Outage
 - iCloud Mail - Outage
 - iCloud Notes - Outage
-- iCloud Storage Upgrades - Outage
 - iCloud Web Apps (iCloud.com) - Outage
-- iMessage - Outage
