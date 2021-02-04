@@ -63,7 +63,7 @@ function getData(html) {
                 } else if (status.match('outage')) {
                     issues = issues  + ':red_circle: ' + serviceWithComment.text() + '\n';
                 } else if (status.match('maintenance')) {
-                    issues = issues  + '::white_circle:: ' + serviceWithComment.text() + '\n';
+                    issues = issues  + ':white_circle: ' + serviceWithComment.text() + '\n';
                 } else {
                     issues = issues  + ':black_circle:' + serviceWithComment.text() + '\n';
                 }
