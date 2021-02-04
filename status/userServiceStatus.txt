@@ -5,5 +5,4 @@ Some issues detected.
 - iCloud Drive - Issue
 - Photos - Issue
 - iCloud Keychain - Issue
-- iCloud Mail - Issue
 - iCloud Notes - Issue
