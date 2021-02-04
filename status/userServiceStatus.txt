@@ -1,5 +1,4 @@
 Some issues detected.
-- Find My - Issue
 - iCloud Backup - Issue
 - iCloud Bookmarks & Tabs - Issue
 - iCloud Contacts - Issue
