@@ -52,23 +52,31 @@ function getData(html) {
             // Logging
             if(serviceWithComment.length > 0) {
                 console.log(serviceWithComment.text());
+
+                // Detect Issues
+                if (status.match('available|resolved|completed')) {
+                    // Do Nothing
+                } else if (status.match('upcoming')) {    
+                    issues = issues  + ':large_green_circle: ' + serviceWithComment.text() + '\n';
+                } else if (status.match('issue')) {
+                    issues = issues  + ':large_yellow_circle: ' + serviceWithComment.text() + '\n';
+                } else if (status.match('outage')) {
+                    issues = issues  + ':red_circle: ' + serviceWithComment.text() + '\n';
+                } else if (status.match('maintenance')) {
+                    issues = issues  + '::white_circle:: ' + serviceWithComment.text() + '\n';
+                } else {
+                    issues = issues  + ':black_circle:' + serviceWithComment.text() + '\n';
+                }
             } else {
                 console.log($(element).find('.light-content.light-name').text())
-            }
-
-            // Detect Issues
-            if (!status.match('available') && !status.match('resolved')) {
-                if (serviceWithComment.length > 0) {
-                    issues = issues  + '- ' + serviceWithComment.text() + '\n';
-                }
             }
         })
 
         let result = '';
         if(issues.length == 0){
-            result = 'All services are operating normally.\n'
+            result = ':large_green_circle: All services are operating normally.\n'
         } else {
-            result = 'Some issues detected.\n' + issues;
+            result = issues;
         }
         return result;
 
