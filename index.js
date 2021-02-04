@@ -47,19 +47,19 @@ function getData(html) {
         let issues = '';
         events.each((index, element) => {
             let status = $(element).find('.light-content.light-image').children().attr('class');
-            let seriveWithComment = $(element).children().find('.light-link');
+            let serviceWithComment = $(element).children().find('.light-link');
 
             // Logging
-            if(seriveWithComment.length > 0) {
-                console.log(seriveWithComment.text());
+            if(serviceWithComment.length > 0) {
+                console.log(serviceWithComment.text());
             } else {
                 console.log($(element).find('.light-content.light-name').text())
             }
 
             // Detect Issues
             if (!status.match('available') && !status.match('resolved')) {
-                if (seriveWithComment.length > 0) {
-                    issues = issues  + '- ' + seriveWithComment.text() + '\n';
+                if (serviceWithComment.length > 0) {
+                    issues = issues  + '- ' + serviceWithComment.text() + '\n';
                 }
             }
         })
