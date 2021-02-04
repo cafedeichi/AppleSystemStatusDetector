@@ -1,2 +1,2 @@
-:red_circle: App Store - Outage
-:red_circle: Mac App Store - Outage
+:large_yellow_circle: App Store - Issue
+:large_yellow_circle: Mac App Store - Issue
