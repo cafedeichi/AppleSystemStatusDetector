@@ -1,8 +1,3 @@
 Some issues detected.
-- iCloud Backup - Issue
-- iCloud Bookmarks & Tabs - Issue
 - iCloud Contacts - Issue
-- iCloud Drive - Issue
-- Photos - Issue
 - iCloud Keychain - Issue
-- iCloud Notes - Issue
