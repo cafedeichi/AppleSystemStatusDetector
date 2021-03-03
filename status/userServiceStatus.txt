@@ -1,1 +1,2 @@
 :large_yellow_circle: Apple Business Manager - 1 Issue, 2 Resolved Issues
+:large_yellow_circle: Apple School Manager - Issue
