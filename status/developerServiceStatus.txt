@@ -1,6 +1,1 @@
-:white_circle: Account - Maintenance In Progress
-:white_circle: Code-level Support - Maintenance In Progress
-:white_circle: Contact Us - Maintenance In Progress
-:white_circle: Program Enrollment and Renewals - Maintenance In Progress
-:white_circle: Software Downloads - Maintenance In Progress
-:white_circle: Videos - Maintenance In Progress
+:large_green_circle: All services are operating normally.
