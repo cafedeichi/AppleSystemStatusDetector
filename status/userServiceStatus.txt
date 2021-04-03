@@ -1,1 +1,1 @@
-:white_circle: Fleetsmith - Maintenance In Progress
+:large_green_circle: All services are operating normally.
