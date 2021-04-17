@@ -3,11 +3,7 @@
 :white_circle: CloudKit Dashboard - Maintenance In Progress
 :white_circle: Code-level Support - Maintenance In Progress
 :white_circle: Contact Us - Maintenance In Progress
-:white_circle: App Store Connect - Maintenance In Progress
-:white_circle: Developer ID Notary Service - Maintenance In Progress
-:white_circle: App Store Connect API - Maintenance In Progress
 :white_circle: MapKit JS Dashboard - Maintenance In Progress
 :white_circle: Program Enrollment and Renewals - Maintenance In Progress
 :white_circle: Software Downloads - Maintenance In Progress
-:white_circle: TestFlight - Maintenance In Progress
 :white_circle: Xcode Automatic Configuration - Maintenance In Progress
