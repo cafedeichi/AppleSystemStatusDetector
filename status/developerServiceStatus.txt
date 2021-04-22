@@ -1,5 +1,5 @@
-:large_green_circle: App Store Connect - Upcoming Maintenance
+:large_green_circle: App Store Connect - 2 Upcoming Maintenances
 :large_green_circle: App Store Connect Analytics - Upcoming Maintenance
-:large_green_circle: App Store Connect API - Upcoming Maintenance
+:large_green_circle: App Store Connect API - 2 Upcoming Maintenances
 :large_green_circle: App Store Connect App Processing - Upcoming Maintenance
-:large_green_circle: TestFlight - Upcoming Maintenance
+:large_green_circle: TestFlight - 2 Upcoming Maintenances
