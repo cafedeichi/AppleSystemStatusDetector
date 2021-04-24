@@ -1,5 +1,4 @@
 :white_circle: App Store Connect - 1 Maintenance in progress, 1 Completed Maintenance
-:white_circle: Developer ID Notary Service - 1 Maintenance in progress, 1 Completed Maintenance
 :white_circle: App Store Connect Analytics - Maintenance In Progress
 :white_circle: App Store Connect API - 1 Maintenance in progress, 1 Completed Maintenance
 :white_circle: App Store Connect App Processing - Maintenance In Progress
