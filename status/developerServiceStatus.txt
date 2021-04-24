@@ -1,14 +1,14 @@
-:large_green_circle: Account - Upcoming Maintenance
-:large_green_circle: Certificates, Identifiers & Profiles - Upcoming Maintenance
-:large_green_circle: CloudKit Dashboard - Upcoming Maintenance
-:large_green_circle: Code-level Support - Upcoming Maintenance
-:large_green_circle: Contact Us - Upcoming Maintenance
-:large_green_circle: App Store Connect - 2 Upcoming Maintenances
+:white_circle: Account - Maintenance In Progress
+:white_circle: Certificates, Identifiers & Profiles - Maintenance In Progress
+:white_circle: CloudKit Dashboard - Maintenance In Progress
+:white_circle: Code-level Support - Maintenance In Progress
+:white_circle: Contact Us - Maintenance In Progress
+:white_circle: App Store Connect - 1 Maintenance in progress, 1 Upcoming Maintenance
 :large_green_circle: App Store Connect Analytics - Upcoming Maintenance
-:large_green_circle: App Store Connect API - 2 Upcoming Maintenances
+:white_circle: App Store Connect API - 1 Maintenance in progress, 1 Upcoming Maintenance
 :large_green_circle: App Store Connect App Processing - Upcoming Maintenance
-:large_green_circle: MapKit JS Dashboard - Upcoming Maintenance
-:large_green_circle: Program Enrollment and Renewals - Upcoming Maintenance
-:large_green_circle: Software Downloads - Upcoming Maintenance
-:large_green_circle: TestFlight - 2 Upcoming Maintenances
-:large_green_circle: Xcode Automatic Configuration - Upcoming Maintenance
+:white_circle: MapKit JS Dashboard - Maintenance In Progress
+:white_circle: Program Enrollment and Renewals - Maintenance In Progress
+:white_circle: Software Downloads - Maintenance In Progress
+:white_circle: TestFlight - 1 Maintenance in progress, 1 Upcoming Maintenance
+:white_circle: Xcode Automatic Configuration - Maintenance In Progress
