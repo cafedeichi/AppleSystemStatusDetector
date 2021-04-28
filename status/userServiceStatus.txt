@@ -1,7 +1,1 @@
-:large_yellow_circle: App Store - Issue
-:large_yellow_circle: Apple Books - Issue
-:large_yellow_circle: Apple Music - Issue
-:large_yellow_circle: Apple Music radio - Issue
-:large_yellow_circle: Radio - Issue
-:large_yellow_circle: iCloud Storage Upgrades - Issue
-:large_yellow_circle: iTunes Store - Issue
+:large_green_circle: All services are operating normally.
