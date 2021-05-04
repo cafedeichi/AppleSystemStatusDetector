@@ -1,4 +1,2 @@
 :large_yellow_circle: iCloud Account & Sign In - Issue
-:large_yellow_circle: iCloud Contacts - Issue
 :large_yellow_circle: iCloud Mail - Issue
-:large_yellow_circle: Find My - Issue
