@@ -1,4 +1,1 @@
-:red_circle: App Store Connect - Outage
 :red_circle: Developer ID Notary Service - Outage
-:red_circle: TestFlight - Outage
-:red_circle: Apple Podcasts Connect - Outage
