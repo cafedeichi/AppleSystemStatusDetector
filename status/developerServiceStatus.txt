@@ -1,15 +1,4 @@
-:red_circle: Account - 1 Outage, 1 Completed Maintenance
-:red_circle: Certificates, Identifiers & Profiles - 1 Outage, 1 Completed Maintenance
-:red_circle: CloudKit Dashboard - 1 Outage, 1 Completed Maintenance
-:red_circle: Code-level Support - 1 Outage, 1 Completed Maintenance
-:red_circle: Contact Us - 1 Outage, 1 Completed Maintenance
 :red_circle: App Store Connect - 1 Outage, 1 Resolved Outage
 :red_circle: Developer ID Notary Service - 1 Outage, 1 Resolved Outage
-:red_circle: Feedback Assistant - 1 Outage, 1 Completed Maintenance
-:red_circle: MapKit JS Dashboard - 1 Outage, 1 Completed Maintenance
-:red_circle: Apple Developer Forums - 1 Outage, 1 Completed Maintenance
-:red_circle: Program Enrollment and Renewals - 1 Outage, 1 Completed Maintenance
-:red_circle: Software Downloads - 1 Outage, 1 Completed Maintenance
 :red_circle: TestFlight - 1 Outage, 1 Resolved Outage
-:red_circle: Xcode Automatic Configuration - 1 Outage, 1 Completed Maintenance
 :red_circle: Apple Podcasts Connect - 1 Outage, 1 Resolved Outage

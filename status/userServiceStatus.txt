@@ -1,4 +1,1 @@
-:red_circle: Apple Business Manager - Outage
-:large_yellow_circle: Apple Card - 1 Issue, 1 Resolved Outage
-:large_yellow_circle: Schoolwork - Issue
-:red_circle: Apple School Manager - Outage
+:large_green_circle: All services are operating normally.
