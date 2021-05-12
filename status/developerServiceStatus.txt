@@ -1,4 +1,1 @@
-:red_circle: App Store Connect - 1 Outage, 1 Resolved Outage
-:red_circle: Developer ID Notary Service - 1 Outage, 1 Resolved Outage
-:red_circle: TestFlight - 1 Outage, 1 Resolved Outage
-:red_circle: Apple Podcasts Connect - 1 Outage, 1 Resolved Outage
+:large_green_circle: All services are operating normally.
