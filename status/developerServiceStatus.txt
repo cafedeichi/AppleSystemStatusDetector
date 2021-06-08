@@ -1,1 +1,1 @@
-:large_yellow_circle: Developer ID Notary Service - 1 Performance, 1 Resolved Performance
+:large_green_circle: All services are operating normally.
