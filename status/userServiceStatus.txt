@@ -1,4 +1,3 @@
 :large_green_circle: Apple Business Manager - Upcoming Maintenance
-:large_yellow_circle: Apple Card - Issue
 :large_green_circle: Apple School Manager - Upcoming Maintenance
 :large_green_circle: Device Enrollment Program - Upcoming Maintenance
