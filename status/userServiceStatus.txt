@@ -1,1 +1,5 @@
-:large_green_circle: All services are operating normally.
+:red_circle: App Store - Outage
+:red_circle: Mac App Store - Outage
+:red_circle: Apple Books - Outage
+:red_circle: Volume Purchase Program - Outage
+:red_circle: iTunes Store - Outage
