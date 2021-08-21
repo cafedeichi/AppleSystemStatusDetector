@@ -1,2 +1,1 @@
-:large_yellow_circle: Photos - Issue
-:large_yellow_circle: iCloud Drive - Issue
+:large_green_circle: All services are operating normally.
