@@ -1,1 +1,1 @@
-:large_yellow_circle: Developer ID Notary Service - Issue
+:red_circle: Developer ID Notary Service - Outage
