@@ -1,2 +1,1 @@
 :large_yellow_circle: App Store - Sandbox - Issue
-:large_yellow_circle: Developer ID Notary Service - Issue
