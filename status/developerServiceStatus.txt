@@ -1,1 +1,1 @@
-:large_yellow_circle: App Store - TestFlight - Performance
+:large_green_circle: All services are operating normally.
