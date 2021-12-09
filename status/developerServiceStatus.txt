@@ -1,1 +1,2 @@
 :large_yellow_circle: App Store - TestFlight - Performance
+:red_circle: App Store Connect - Outage
