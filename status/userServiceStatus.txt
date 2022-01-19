@@ -1,2 +1,1 @@
-:large_yellow_circle: iCloud Account & Sign In - Issue
-:large_yellow_circle: iCloud Storage Upgrades - Issue
+:large_green_circle: All services are operating normally.

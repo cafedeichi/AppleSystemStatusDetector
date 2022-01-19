@@ -1,1 +1,4 @@
-:large_green_circle: All services are operating normally.
+:large_yellow_circle: App Store - TestFlight - Performance
+:large_yellow_circle: App Store Connect - Performance
+:large_yellow_circle: App Store Connect API - Performance
+:large_yellow_circle: App Store Connect App Processing - Performance
