@@ -1,1 +1,3 @@
-:large_green_circle: All services are operating normally.
+:white_circle: Apple Card - 1 Maintenance in progress, 1 Completed Maintenance
+:white_circle: Apple Cash - 1 Maintenance in progress, 1 Completed Maintenance
+:white_circle: Apple Pay & Wallet - 1 Maintenance in progress, 1 Completed Maintenance
