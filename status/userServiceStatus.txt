@@ -1,10 +1,1 @@
-:large_yellow_circle: iCloud Account & Sign In - Issue
-:large_yellow_circle: iCloud Backup - Issue
-:large_yellow_circle: iCloud Bookmarks & Tabs - Issue
-:large_yellow_circle: Photos - Issue
-:large_yellow_circle: iCloud Contacts - Issue
-:large_yellow_circle: iCloud Drive - Issue
-:large_yellow_circle: iCloud Keychain - Issue
-:large_yellow_circle: iCloud Notes - Issue
-:large_yellow_circle: Screen Time - Issue
-:large_yellow_circle: iCloud Reminders - Issue
+:large_green_circle: All services are operating normally.
