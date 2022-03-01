@@ -62,7 +62,7 @@ jobs:
           USERNAME: "Apple System Status"
           ICON_EMOJI: ":green_apple:"
           TEXT_TITLE: ""
-          TEXT_BODY: "${{ steps.check-updates.outputs.system_status }}${{ steps.check-updates.outputs.developer_system_status }}"
+          TEXT_BODY: "${{ steps.check-updates.outputs.mention }}${{ steps.check-updates.outputs.system_status }}${{ steps.check-updates.outputs.developer_system_status }}"
           WEBHOOK_URL: ${{ secrets.WEBHOOK_URL }}          
         run: |
           curl -X POST \
