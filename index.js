@@ -23,7 +23,7 @@ Nightmare(configuration)
     .then( response => {
         let result = getData(response);
         write(userFilePath, result);
-        core.setOutput('mention', isAppStoreOutage ? '@here\n' : '');
+        core.setOutput('mention', isAppStoreOutage ? '<!here>\n' : '');
         core.setOutput('system_status', '<' + userUrl + '|*System Status:*>\n' + result);
     }).catch(error => {
         core.setFailed(`Data Fetching failed with error ${error}`);
