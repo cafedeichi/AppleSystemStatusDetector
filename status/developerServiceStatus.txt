@@ -1,7 +1,1 @@
-:red_circle: Apple Podcasts Connect - Outage
-:red_circle: App Store - Receipt Verification - Outage
-:red_circle: App Store - TestFlight - Outage
 :red_circle: Developer ID Notary Service - Outage
-:red_circle: App Store Connect - Outage
-:red_circle: App Store Connect API - Outage
-:red_circle: Apple Music API - Outage
