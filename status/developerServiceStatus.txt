@@ -1,1 +1,12 @@
-:large_green_circle: All services are operating normally.
+:red_circle: Account - Outage
+:red_circle: Certificates, Identifiers & Profiles - Outage
+:red_circle: CloudKit Console - Outage
+:red_circle: CloudKit Database - Outage
+:red_circle: Code-level Support - Outage
+:red_circle: Contact Us - Outage
+:red_circle: Developer ID Notary Service - Outage
+:red_circle: MapKit JS Dashboard - Outage
+:red_circle: Program Enrollment and Renewals - Outage
+:red_circle: Apple Developer Forums - Outage
+:red_circle: Software Downloads - Outage
+:red_circle: Videos - Outage

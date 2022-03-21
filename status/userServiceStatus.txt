@@ -1,7 +1,9 @@
 :red_circle: App Store - Outage
 :red_circle: Apple Arcade - Outage
+:red_circle: Apple Business Manager - Outage
 :red_circle: Maps Display - Outage
 :red_circle: Maps Routing & Navigation - Outage
+:red_circle: Apple Fitness+ - Outage
 :red_circle: iCloud Account & Sign In - Outage
 :red_circle: Maps Search - Outage
 :red_circle: Maps Traffic - Outage
@@ -12,8 +14,10 @@
 :red_circle: Radio - Outage
 :red_circle: iCloud Keychain - Outage
 :red_circle: iCloud Mail - Outage
+:red_circle: Apple School Manager - Outage
 :red_circle: Apple TV+ - Outage
 :red_circle: AppleCare on Device - Outage
+:red_circle: Device Enrollment Program - Outage
 :red_circle: iCloud Web Apps (iCloud.com) - Outage
 :red_circle: Find My - Outage
 :red_circle: iTunes Store - Outage
