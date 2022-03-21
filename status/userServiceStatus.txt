@@ -3,16 +3,11 @@
 :red_circle: Maps Display - Outage
 :red_circle: Maps Routing & Navigation - Outage
 :red_circle: Apple Fitness+ - Outage
-:red_circle: iCloud Account & Sign In - Outage
 :red_circle: Maps Search - Outage
 :red_circle: Maps Traffic - Outage
 :red_circle: Apple Music - Outage
-:red_circle: iCloud Calendar - Outage
 :red_circle: Podcasts - Outage
-:red_circle: iCloud Drive - Outage
 :red_circle: Radio - Outage
-:red_circle: iCloud Keychain - Outage
-:red_circle: iCloud Mail - Outage
 :red_circle: Apple TV+ - Outage
 :red_circle: AppleCare on Device - Outage
 :red_circle: Find My - Outage
