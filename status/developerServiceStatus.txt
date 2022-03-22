@@ -1,1 +1,3 @@
+:large_yellow_circle: App Store - TestFlight - 1 Performance, 1 Resolved Outage
+:large_yellow_circle: App Store Connect App Processing - Performance
 :large_green_circle: Xcode Cloud - Upcoming Maintenance
