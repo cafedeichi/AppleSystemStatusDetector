@@ -1,5 +1,8 @@
 :red_circle: App Store - 1 Outage, 1 Resolved Outage
+:large_yellow_circle: Game Center - 1 Issue, 1 Resolved Outage
 :red_circle: Mac App Store - Outage
 :red_circle: Apple Books - Outage
 :red_circle: Apple Music - 1 Outage, 1 Resolved Outage
 :red_circle: Podcasts - 1 Outage, 1 Resolved Outage
+:large_yellow_circle: iCloud Web Apps (iCloud.com) - 1 Issue, 1 Resolved Outage
+:large_yellow_circle: Weather - Issue
