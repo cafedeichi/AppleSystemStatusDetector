@@ -1,1 +1,1 @@
-:white_circle: Xcode Cloud - Maintenance In Progress
+:large_green_circle: All services are operating normally.
