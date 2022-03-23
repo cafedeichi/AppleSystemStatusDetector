@@ -37,7 +37,7 @@ Nightmare(configuration)
     .then( response => {
         let result = getData(response);
         write(developerFilePath, result);
-        core.setOutput('mention', isAppStoreOutage ? '@here\n' : '');
+        core.setOutput('mention', isAppStoreOutage ? '<!here>\n' : '');
         core.setOutput('developer_system_status', '<' + developerUrl + '|*Developer System Status:*>\n' + result);
     }).catch(error => {
         core.setFailed(`Data Fetching failed with error ${error}`);
