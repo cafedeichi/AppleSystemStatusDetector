@@ -1,1 +1,2 @@
-:large_green_circle: All services are operating normally.
+:large_yellow_circle: iWork for iCloud - Issue
+:large_yellow_circle: Photos - Issue
