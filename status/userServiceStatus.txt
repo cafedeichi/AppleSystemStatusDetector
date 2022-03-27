@@ -1,1 +1,14 @@
+:large_yellow_circle: iCloud Account & Sign In - Issue
+:large_yellow_circle: iCloud Backup - Issue
+:large_yellow_circle: iCloud Bookmarks & Tabs - Issue
 :large_yellow_circle: News - Issue
+:large_yellow_circle: iCloud Calendar - Issue
+:large_yellow_circle: Photos - 1 Issue, 1 Resolved Issue
+:large_yellow_circle: iCloud Contacts - Issue
+:large_yellow_circle: iCloud Drive - Issue
+:large_yellow_circle: iCloud Keychain - Issue
+:large_yellow_circle: iCloud Mail - Issue
+:large_yellow_circle: iCloud Notes - Issue
+:large_yellow_circle: Screen Time - Issue
+:large_yellow_circle: iCloud Reminders - Issue
+:large_yellow_circle: iCloud Web Apps (iCloud.com) - Issue
