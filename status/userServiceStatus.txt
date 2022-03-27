@@ -6,6 +6,7 @@
 :large_yellow_circle: iCloud Contacts - Issue
 :large_yellow_circle: iCloud Drive - Issue
 :large_yellow_circle: iCloud Keychain - Issue
+:red_circle: Apple Pay & Wallet - Outage
 :large_yellow_circle: iCloud Mail - Issue
 :large_yellow_circle: iCloud Notes - Issue
 :large_yellow_circle: Screen Time - Issue
