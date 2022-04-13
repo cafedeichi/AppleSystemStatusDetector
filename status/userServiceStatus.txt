@@ -1,5 +1,1 @@
-:large_yellow_circle: App Store - Issue
-:large_yellow_circle: Apple Books - Issue
-:large_yellow_circle: Mac App Store - Issue
-:red_circle: Volume Purchase Program - Outage
-:large_yellow_circle: iTunes Store - Issue
+:large_green_circle: All services are operating normally.
