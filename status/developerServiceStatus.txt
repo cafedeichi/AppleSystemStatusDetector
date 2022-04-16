@@ -1,1 +1,11 @@
-:large_green_circle: All services are operating normally.
+:large_green_circle: Account - 2 Upcoming Maintenances
+:large_green_circle: Certificates, Identifiers & Profiles - 2 Upcoming Maintenances
+:large_green_circle: CloudKit Console - 2 Upcoming Maintenances
+:large_green_circle: Code-level Support - 2 Upcoming Maintenances
+:large_green_circle: Contact Us - 2 Upcoming Maintenances
+:large_green_circle: Feedback Assistant - 2 Upcoming Maintenances
+:large_green_circle: MapKit JS Dashboard - 2 Upcoming Maintenances
+:large_green_circle: MFi Portal - 2 Upcoming Maintenances
+:large_green_circle: Program Enrollment and Renewals - 2 Upcoming Maintenances
+:large_green_circle: Software Downloads - 2 Upcoming Maintenances
+:large_green_circle: Xcode Automatic Configuration - 2 Upcoming Maintenances
