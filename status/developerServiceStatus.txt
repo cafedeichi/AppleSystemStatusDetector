@@ -1,12 +1,1 @@
-:white_circle: Account - 1 Maintenance in progress, 1 Completed Maintenance
-:white_circle: Certificates, Identifiers & Profiles - 1 Maintenance in progress, 1 Completed Maintenance
-:white_circle: CloudKit Console - 1 Maintenance in progress, 1 Completed Maintenance
-:white_circle: Code-level Support - 1 Maintenance in progress, 1 Completed Maintenance
-:white_circle: Contact Us - 1 Maintenance in progress, 1 Completed Maintenance
 :large_yellow_circle: Developer ID Notary Service - Issue
-:white_circle: Feedback Assistant - 1 Maintenance in progress, 1 Completed Maintenance
-:white_circle: MapKit JS Dashboard - 1 Maintenance in progress, 1 Completed Maintenance
-:white_circle: MFi Portal - 1 Maintenance in progress, 1 Completed Maintenance
-:white_circle: Program Enrollment and Renewals - 1 Maintenance in progress, 1 Completed Maintenance
-:white_circle: Software Downloads - 1 Maintenance in progress, 1 Completed Maintenance
-:white_circle: Xcode Automatic Configuration - 1 Maintenance in progress, 1 Completed Maintenance
