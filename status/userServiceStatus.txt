@@ -1,2 +1,1 @@
-:large_yellow_circle: App Store - Issue
-:large_yellow_circle: Apple Music - Issue
+:large_green_circle: All services are operating normally.
