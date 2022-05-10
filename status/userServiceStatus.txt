@@ -1,2 +1,1 @@
-:large_yellow_circle: iCloud Mail - Issue
 :red_circle: Apple Pay & Wallet - Outage
