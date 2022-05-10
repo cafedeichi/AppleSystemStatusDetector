@@ -1,1 +1,5 @@
+:large_yellow_circle: Game Center - Issue
+:large_yellow_circle: iCloud Bookmarks & Tabs - Issue
+:large_yellow_circle: iCloud Keychain - Issue
+:large_yellow_circle: Screen Time - Issue
 :red_circle: Apple Pay & Wallet - Outage
