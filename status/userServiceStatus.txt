@@ -1,1 +1,2 @@
-:large_yellow_circle: iWork for iCloud - Issue
+:red_circle: iWork for iCloud - Outage
+:red_circle: iWork Collaboration - Outage
