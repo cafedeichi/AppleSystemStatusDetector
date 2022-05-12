@@ -1,1 +1,4 @@
-:large_green_circle: All services are operating normally.
+:red_circle: Apple Music - Outage
+:red_circle: Radio - Outage
+:red_circle: Apple Music radio - Outage
+:red_circle: iTunes Match - Outage
