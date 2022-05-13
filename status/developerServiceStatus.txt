@@ -2,10 +2,8 @@
 :large_green_circle: CloudKit Console - 2 Upcoming Maintenances
 :large_green_circle: Code-level Support - 2 Upcoming Maintenances
 :large_green_circle: Contact Us - 2 Upcoming Maintenances
-:large_yellow_circle: App Store Connect - 1 Performance, 1 Resolved Performance
 :large_green_circle: Feedback Assistant - 2 Upcoming Maintenances
 :large_green_circle: MapKit JS Dashboard - 2 Upcoming Maintenances
-:large_yellow_circle: App Store Connect API - 1 Performance, 1 Resolved Performance
 :large_green_circle: Program Enrollment and Renewals - 2 Upcoming Maintenances
 :large_green_circle: Software Downloads - 2 Upcoming Maintenances
 :large_green_circle: Xcode Automatic Configuration - 2 Upcoming Maintenances
