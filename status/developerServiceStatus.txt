@@ -1,9 +1,10 @@
-:large_green_circle: Account - 2 Upcoming Maintenances
-:large_green_circle: CloudKit Console - 2 Upcoming Maintenances
-:large_green_circle: Code-level Support - 2 Upcoming Maintenances
-:large_green_circle: Contact Us - 2 Upcoming Maintenances
-:large_green_circle: Feedback Assistant - 2 Upcoming Maintenances
-:large_green_circle: MapKit JS Dashboard - 2 Upcoming Maintenances
-:large_green_circle: Program Enrollment and Renewals - 2 Upcoming Maintenances
-:large_green_circle: Software Downloads - 2 Upcoming Maintenances
-:large_green_circle: Xcode Automatic Configuration - 2 Upcoming Maintenances
+:white_circle: Account - 1 Maintenance in progress, 1 Upcoming Maintenance
+:white_circle: Certificates, Identifiers & Profiles - 1 Maintenance in progress, 1 Resolved Issue, 1 Upcoming Maintenance
+:white_circle: CloudKit Console - 1 Maintenance in progress, 1 Upcoming Maintenance
+:white_circle: Code-level Support - 1 Maintenance in progress, 1 Upcoming Maintenance
+:white_circle: Contact Us - 1 Maintenance in progress, 1 Upcoming Maintenance
+:white_circle: Feedback Assistant - 1 Maintenance in progress, 1 Upcoming Maintenance
+:white_circle: MapKit JS Dashboard - 1 Maintenance in progress, 1 Upcoming Maintenance
+:white_circle: Program Enrollment and Renewals - 1 Maintenance in progress, 1 Upcoming Maintenance
+:white_circle: Software Downloads - 1 Maintenance in progress, 1 Upcoming Maintenance
+:white_circle: Xcode Automatic Configuration - 1 Maintenance in progress, 1 Upcoming Maintenance
