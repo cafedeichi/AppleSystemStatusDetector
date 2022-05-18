@@ -1,2 +1,1 @@
-:red_circle: Radio - Outage
-:red_circle: Apple Music radio - Outage
+:large_green_circle: All services are operating normally.
