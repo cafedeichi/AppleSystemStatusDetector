@@ -1,1 +1,2 @@
-:large_green_circle: All services are operating normally.
+:red_circle: Apple Business Manager - Outage
+:red_circle: Apple School Manager - Outage
