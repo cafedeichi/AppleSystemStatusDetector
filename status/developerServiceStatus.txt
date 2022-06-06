@@ -1,1 +1,9 @@
-:large_green_circle: All services are operating normally.
+:white_circle: Account - Maintenance In Progress
+:white_circle: Certificates, Identifiers & Profiles - Maintenance In Progress
+:white_circle: CloudKit Console - Maintenance In Progress
+:white_circle: Code-level Support - Maintenance In Progress
+:white_circle: Contact Us - Maintenance In Progress
+:white_circle: MapKit JS Dashboard - Maintenance In Progress
+:white_circle: Program Enrollment and Renewals - Maintenance In Progress
+:white_circle: Software Downloads - Maintenance In Progress
+:white_circle: Xcode Automatic Configuration - Maintenance In Progress
