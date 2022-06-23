@@ -4,4 +4,3 @@
 :large_green_circle: App Store Connect - App Upload - Upcoming Maintenance
 :large_green_circle: App Store Connect Analytics - Upcoming Maintenance
 :large_green_circle: App Store Connect API - Upcoming Maintenance
-:large_yellow_circle: Xcode Cloud - Issue
