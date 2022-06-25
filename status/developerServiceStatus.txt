@@ -1,4 +1,5 @@
 :white_circle: Apple Podcasts Connect - Maintenance In Progress
+:white_circle: Developer ID Notary Service - Maintenance In Progress
 :white_circle: App Store Connect - Maintenance In Progress
 :white_circle: App Store Connect - App Processing  - Maintenance In Progress
 :white_circle: App Store Connect - App Upload - Maintenance In Progress
