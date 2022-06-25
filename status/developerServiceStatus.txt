@@ -1,6 +1,6 @@
-:large_green_circle: Apple Podcasts Connect - Upcoming Maintenance
-:large_green_circle: App Store Connect - Upcoming Maintenance
-:large_green_circle: App Store Connect - App Processing  - Upcoming Maintenance
-:large_green_circle: App Store Connect - App Upload - Upcoming Maintenance
-:large_green_circle: App Store Connect Analytics - Upcoming Maintenance
-:large_green_circle: App Store Connect API - Upcoming Maintenance
+:white_circle: Apple Podcasts Connect - Maintenance In Progress
+:white_circle: App Store Connect - Maintenance In Progress
+:white_circle: App Store Connect - App Processing  - Maintenance In Progress
+:white_circle: App Store Connect - App Upload - Maintenance In Progress
+:white_circle: App Store Connect Analytics - Maintenance In Progress
+:white_circle: App Store Connect API - Maintenance In Progress
