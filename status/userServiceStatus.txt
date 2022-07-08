@@ -1,1 +1,2 @@
-:large_green_circle: All services are operating normally.
+:large_yellow_circle: iWork Collaboration - 1 Issue, 1 Resolved Issue
+:large_yellow_circle: iWork for iCloud - Issue
