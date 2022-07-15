@@ -1,2 +1,5 @@
 :large_yellow_circle: iWork for iCloud - Issue
+:large_yellow_circle: Game Center - Issue
+:large_yellow_circle: Photos - Issue
+:large_yellow_circle: iCloud Drive - Issue
 :large_yellow_circle: iCloud Mail - Issue
