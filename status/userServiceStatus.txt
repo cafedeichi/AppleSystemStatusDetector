@@ -1,2 +1,1 @@
-:large_yellow_circle: Apple Card - Issue
-:red_circle: Apple Pay & Wallet - 1 Outage, 1 Issue
+:red_circle: Apple Pay & Wallet - 1 Outage, 1 Resolved Issue
