@@ -1,2 +1,1 @@
-:large_yellow_circle: App Store Connect - Issue
-:large_yellow_circle: App Store Connect - App Processing  - Issue
+:large_green_circle: All services are operating normally.
