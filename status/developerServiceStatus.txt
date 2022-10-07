@@ -1,1 +1,1 @@
-:large_green_circle: All services are operating normally.
+:large_yellow_circle: App Store Connect - App Processing  - 1 Performance, 1 Resolved Issue
