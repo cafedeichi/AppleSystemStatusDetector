@@ -1,1 +1,5 @@
+:red_circle: Maps Display - Outage
 :large_yellow_circle: Apple Card - Issue
+:red_circle: Maps Routing & Navigation - Outage
+:red_circle: Maps Search - Outage
+:red_circle: Maps Traffic - Outage
