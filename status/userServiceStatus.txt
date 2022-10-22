@@ -1,3 +1,1 @@
-:red_circle: App Store - Outage
-:red_circle: Mac App Store - Outage
-:red_circle: iTunes Store - Outage
+:large_green_circle: All services are operating normally.
