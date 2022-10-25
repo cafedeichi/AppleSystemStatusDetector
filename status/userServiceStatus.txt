@@ -1,2 +1,4 @@
+:large_yellow_circle: iCloud Calendar - Issue
 :large_yellow_circle: Photos - Issue
 :large_yellow_circle: iCloud Keychain - Issue
+:large_yellow_circle: iCloud Mail - Issue
