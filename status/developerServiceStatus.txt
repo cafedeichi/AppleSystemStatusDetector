@@ -1,1 +1,2 @@
+:red_circle: Developer ID Notary Service - Outage
 :large_yellow_circle: App Store Connect - Performance
