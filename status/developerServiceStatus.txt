@@ -1,1 +1,2 @@
 :red_circle: Developer ID Notary Service - Outage
+:red_circle: Xcode Cloud - Outage
