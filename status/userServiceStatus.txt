@@ -2,7 +2,6 @@
 :large_yellow_circle: iWork for iCloud - Issue
 :large_yellow_circle: iCloud Calendar - 1 Issue, 1 Resolved Issue
 :large_yellow_circle: iCloud Contacts - Issue
-:large_yellow_circle: Photos - 1 Issue, 1 Resolved Issue
 :large_yellow_circle: iCloud Keychain - Issue
 :large_yellow_circle: iCloud Mail - Issue
 :large_yellow_circle: Screen Time - 1 Issue, 1 Resolved Issue
