@@ -1,1 +1,9 @@
-:large_green_circle: All services are operating normally.
+:red_circle: App Store - Outage
+:red_circle: Apple Arcade - Outage
+:red_circle: Mac App Store - Outage
+:red_circle: Apple Books - Outage
+:red_circle: Apple Fitness+ - Outage
+:red_circle: Apple Music - Outage
+:red_circle: Apple Music Subscriptions - Outage
+:red_circle: Apple TV+ - Outage
+:red_circle: iTunes Store - Outage
