@@ -1,3 +1,1 @@
-:white_circle: App Store Connect - Maintenance In Progress
-:white_circle: App Store Connect - TestFlight - Maintenance In Progress
-:white_circle: App Store Connect API - Maintenance In Progress
+:large_green_circle: All services are operating normally.
