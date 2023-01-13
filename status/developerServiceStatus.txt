@@ -1,4 +1,3 @@
 :large_green_circle: App Store Connect - Upcoming Maintenance
 :large_green_circle: App Store Connect - TestFlight - Upcoming Maintenance
 :large_green_circle: App Store Connect API - Upcoming Maintenance
-:large_yellow_circle: Xcode Cloud - Issue
