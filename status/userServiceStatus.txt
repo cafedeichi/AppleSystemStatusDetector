@@ -1,2 +1,1 @@
-:large_yellow_circle: Apple TV Channels - Issue
-:large_yellow_circle: Apple TV+ - Issue
+:large_green_circle: All services are operating normally.
