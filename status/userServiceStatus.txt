@@ -1,4 +1,1 @@
-:red_circle: App Store - 1 Outage, 1 Resolved Outage
-:red_circle: Mac App Store - 1 Outage, 1 Resolved Outage
-:red_circle: Podcasts - 1 Outage, 1 Resolved Outage
-:red_circle: iTunes Store - Outage
+:large_green_circle: All services are operating normally.
