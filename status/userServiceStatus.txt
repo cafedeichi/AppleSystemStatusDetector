@@ -1,4 +1,4 @@
-:red_circle: App Store - Outage
-:red_circle: Mac App Store - Outage
-:red_circle: Podcasts - Outage
+:red_circle: App Store - 2 Outages
+:red_circle: Mac App Store - 2 Outages
+:red_circle: Podcasts - 2 Outages
 :red_circle: iTunes Store - Outage
