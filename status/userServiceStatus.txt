@@ -1,3 +1,2 @@
 :large_yellow_circle: iCloud Calendar - Issue
 :large_yellow_circle: iCloud Contacts - Issue
-:large_yellow_circle: iCloud Mail - Issue
