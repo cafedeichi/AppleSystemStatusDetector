@@ -1,2 +1,1 @@
-:large_yellow_circle: App Store Connect - TestFlight - Performance
 :white_circle: Apple Music for Artists - Maintenance In Progress
