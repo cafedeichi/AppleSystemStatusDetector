@@ -1,7 +1,15 @@
 :red_circle: App Store - Outage
+:large_yellow_circle: iWork for iCloud - Issue
+:large_yellow_circle: Game Center - Issue
 :red_circle: Mac App Store - Outage
 :red_circle: Apple Books - Outage
+:large_yellow_circle: Apple Business Essentials - Issue
+:large_yellow_circle: Apple Business Manager - Issue
 :red_circle: Podcasts - Outage
 :red_circle: Apple Music - Outage
+:large_yellow_circle: iCloud Mail - Issue
+:large_yellow_circle: Schoolwork - Issue
+:large_yellow_circle: Apple School Manager - Issue
 :red_circle: Apple TV Channels - Outage
 :red_circle: Apple TV+ - Outage
+:large_yellow_circle: iWork Collaboration - Issue
