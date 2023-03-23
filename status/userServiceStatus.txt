@@ -1,2 +1,1 @@
-:large_yellow_circle: App Store - Performance
-:large_yellow_circle: Apple Fitness+ - Performance
+:large_green_circle: All services are operating normally.
