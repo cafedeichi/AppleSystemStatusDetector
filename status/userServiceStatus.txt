@@ -1,1 +1,2 @@
-:large_yellow_circle: Podcasts - Performance
+:large_yellow_circle: App Store - Performance
+:large_yellow_circle: Apple Fitness+ - Performance
