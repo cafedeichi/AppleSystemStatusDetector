@@ -1,1 +1,1 @@
-:large_green_circle: All services are operating normally.
+:large_yellow_circle: Weather - 1 Issue, 2 Resolved Issues
