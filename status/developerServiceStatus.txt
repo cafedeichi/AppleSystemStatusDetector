@@ -8,5 +8,4 @@
 :large_green_circle: Program Enrollment and Renewals - Upcoming Maintenance
 :large_green_circle: Software Downloads - Upcoming Maintenance
 :large_green_circle: Videos - Upcoming Maintenance
-:large_yellow_circle: WeatherKit - 1 Issue, 1 Resolved Issue
 :large_green_circle: Xcode Automatic Configuration - Upcoming Maintenance
