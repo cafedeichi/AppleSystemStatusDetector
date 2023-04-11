@@ -1,4 +1,3 @@
-:large_yellow_circle: News - Issue
 :red_circle: Apple Music - Outage
 :red_circle: Radio - Outage
 :red_circle: Apple Music radio - Outage
