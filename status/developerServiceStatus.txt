@@ -1,2 +1,1 @@
-:white_circle: App Store Connect - Analytics - Maintenance In Progress
-:white_circle: Apple Music for Artists - Maintenance In Progress
+:large_green_circle: All services are operating normally.
