@@ -1,7 +1,7 @@
-:large_green_circle: Apple Podcasts Connect - Upcoming Maintenance
+:white_circle: Apple Podcasts Connect - Maintenance In Progress
 :large_green_circle: Developer ID Notary Service - Upcoming Maintenance
-:large_green_circle: App Store Connect - Upcoming Maintenance
+:white_circle: App Store Connect - Maintenance In Progress
 :white_circle: App Store Connect - Analytics - Maintenance In Progress
-:large_green_circle: App Store Connect - App Processing  - Upcoming Maintenance
-:large_green_circle: App Store Connect API - Upcoming Maintenance
+:white_circle: App Store Connect - App Processing  - Maintenance In Progress
+:white_circle: App Store Connect API - Maintenance In Progress
 :white_circle: Apple Music for Artists - Maintenance In Progress
