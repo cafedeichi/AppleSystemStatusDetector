@@ -1,1 +1,3 @@
-:large_green_circle: All services are operating normally.
+:large_yellow_circle: Apple Card - Issue
+:large_yellow_circle: Apple Cash - Issue
+:large_yellow_circle: Apple Pay & Wallet - Issue
