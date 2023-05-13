@@ -1,2 +1,1 @@
-:large_yellow_circle: iCloud Mail - 1 Issue, 1 Resolved Issue
 :large_yellow_circle: Apple Pay & Wallet - Issue
