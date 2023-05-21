@@ -1,2 +1,2 @@
 :large_green_circle: Apple Pay & Wallet - Upcoming Maintenance
-:large_green_circle: AppleCare on Device - Upcoming Maintenance
+:white_circle: AppleCare on Device - Maintenance In Progress
