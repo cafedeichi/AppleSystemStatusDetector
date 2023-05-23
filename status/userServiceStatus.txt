@@ -1,1 +1,3 @@
+:large_yellow_circle: Photos - Issue
 :large_yellow_circle: iMessage - Issue
+:large_yellow_circle: iWork for iCloud - Issue
