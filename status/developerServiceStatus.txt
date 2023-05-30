@@ -1,4 +1,1 @@
-:red_circle: Apple Podcasts Connect - Outage
 :red_circle: Developer ID Notary Service - Outage
-:red_circle: App Store Connect - 1 Outage, 1 Resolved Outage
-:red_circle: Apple Music for Artists - Outage
