@@ -1,3 +1,1 @@
-:red_circle: Apple TV Channels - Outage
-:red_circle: Apple TV+ - Outage
-:red_circle: iTunes Match - Outage
+:large_green_circle: All services are operating normally.
