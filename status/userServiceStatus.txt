@@ -1,4 +1,3 @@
-:large_yellow_circle: Apple School Manager - Issue
 :red_circle: Apple TV Channels - Outage
 :red_circle: Apple TV+ - Outage
 :red_circle: iTunes Match - Outage
