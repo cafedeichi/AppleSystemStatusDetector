@@ -1,2 +1,1 @@
-:red_circle: App Store Connect - App Upload - Outage
-:red_circle: App Store Connect API - Outage
+:large_green_circle: All services are operating normally.
