@@ -1,6 +1,1 @@
-:red_circle: App Store - In-App Purchases - Outage
-:red_circle: App Store - Receipt Verification - Outage
-:red_circle: App Store - Server APIs - Outage
-:red_circle: App Store - Server Notifications - Outage
-:red_circle: App Store Connect - Outage
-:red_circle: App Store Connect - App Processing  - Outage
+:large_green_circle: All services are operating normally.
