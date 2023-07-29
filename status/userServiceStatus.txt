@@ -1,1 +1,4 @@
-:large_green_circle: All services are operating normally.
+:white_circle: Apple Business Essentials - Maintenance In Progress
+:white_circle: Apple Business Manager - Maintenance In Progress
+:white_circle: Apple School Manager - Maintenance In Progress
+:white_circle: Device Enrollment Program - Maintenance In Progress
