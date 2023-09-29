@@ -1,1 +1,3 @@
-:large_green_circle: All services are operating normally.
+:large_yellow_circle: MLS Season Pass - Performance
+:large_yellow_circle: Apple TV Channels - Performance
+:large_yellow_circle: Apple TV+ - 1 Performance, 1 Resolved Issue
