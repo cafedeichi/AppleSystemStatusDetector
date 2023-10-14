@@ -1,1 +1,3 @@
 :large_green_circle: Apple Card - Upcoming Maintenance
+:large_yellow_circle: Apple Music - Performance
+:large_yellow_circle: Radio - Performance
