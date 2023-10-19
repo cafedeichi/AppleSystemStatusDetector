@@ -1,6 +1,1 @@
-:red_circle: App Store Connect - Outage
-:red_circle: App Store Connect - Analytics - Outage
-:large_yellow_circle: App Store Connect - App Processing  - Performance
-:large_yellow_circle: App Store Connect - App Upload - Performance
-:large_yellow_circle: App Store Connect - TestFlight - Performance
-:red_circle: App Store Connect API - Outage
+:large_green_circle: All services are operating normally.
