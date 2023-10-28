@@ -2,6 +2,8 @@
 :large_yellow_circle: Game Center - Issue
 :large_yellow_circle: Apple Business Essentials - 1 Issue, 1 Resolved Outage
 :large_yellow_circle: Apple Business Manager - 1 Issue, 1 Resolved Outage
+:large_yellow_circle: iCloud Calendar - Issue
+:large_yellow_circle: iCloud Contacts - Issue
 :large_yellow_circle: iCloud Mail - Issue
 :large_yellow_circle: Schoolwork - Issue
 :large_green_circle: Apple Pay & Wallet - Upcoming Maintenance
