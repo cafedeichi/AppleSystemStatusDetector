@@ -1,7 +1,8 @@
 :large_yellow_circle: iWork for iCloud - Issue
-:red_circle: Apple Business Essentials - 1 Outage, 1 Resolved Outage
-:red_circle: Apple Business Manager - 1 Outage, 1 Resolved Outage
+:large_yellow_circle: Game Center - Issue
+:large_yellow_circle: Apple Business Essentials - 1 Issue, 1 Resolved Outage
+:large_yellow_circle: Apple Business Manager - 1 Issue, 1 Resolved Outage
 :large_yellow_circle: iCloud Mail - Issue
 :large_yellow_circle: Schoolwork - Issue
 :large_green_circle: Apple Pay & Wallet - Upcoming Maintenance
-:red_circle: Apple School Manager - 1 Outage, 1 Resolved Outage
+:large_yellow_circle: Apple School Manager - 1 Issue, 1 Resolved Outage
