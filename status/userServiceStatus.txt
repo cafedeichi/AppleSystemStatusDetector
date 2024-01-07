@@ -1,2 +1,1 @@
-:red_circle: Maps Display - Outage
 :large_green_circle: Apple Pay & Wallet - Upcoming Maintenance
