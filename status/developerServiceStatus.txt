@@ -1,2 +1,6 @@
+:red_circle: App Store - In-App Purchases - Outage
+:red_circle: App Store - Receipt Verification - Outage
+:red_circle: App Store - Server APIs - Outage
+:red_circle: App Store - Server Notifications - Outage
 :large_yellow_circle: App Store Connect - Issue
 :large_yellow_circle: App Store Connect - TestFlight - Issue
