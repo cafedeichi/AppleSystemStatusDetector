@@ -1,1 +1,2 @@
 :red_circle: iCloud Mail - Outage
+:large_yellow_circle: iCloud Web Apps (iCloud.com) - Issue
