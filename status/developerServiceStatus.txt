@@ -1,2 +1,1 @@
 :large_yellow_circle: Developer ID Notary Service - Issue
-:red_circle: Xcode Cloud - 1 Outage, 1 Completed Maintenance
