@@ -1,2 +1,2 @@
-:red_circle: App Store Connect - App Processing  - Outage
-:red_circle: App Store Connect - TestFlight - Outage
+:large_yellow_circle: App Store Connect - App Processing  - Performance
+:large_yellow_circle: App Store Connect - TestFlight - Performance
