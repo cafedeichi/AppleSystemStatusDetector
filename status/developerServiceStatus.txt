@@ -1,2 +1,2 @@
-:large_green_circle: App Store Connect - Upcoming Maintenance
-:large_green_circle: App Store Connect API - Upcoming Maintenance
+:white_circle: App Store Connect - Maintenance In Progress
+:white_circle: App Store Connect API - Maintenance In Progress
