@@ -1,9 +1,14 @@
 :red_circle: App Store - Outage
 :red_circle: Mac App Store - Outage
+:red_circle: Apple Arcade - Outage
 :red_circle: Apple Books - Outage
 :large_yellow_circle: Apple Business Essentials - Issue
 :large_yellow_circle: Apple Business Manager - Issue
+:red_circle: Apple Fitness+ - Outage
 :red_circle: Podcasts - Outage
+:red_circle: Apple Music - Outage
 :large_yellow_circle: Apple School Manager - Issue
 :red_circle: Apple Sports - Outage
+:red_circle: Apple TV Channels - Outage
+:red_circle: Apple TV+ - Outage
 :red_circle: Audiobooks - Outage
