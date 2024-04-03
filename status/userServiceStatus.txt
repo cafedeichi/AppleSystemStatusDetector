@@ -7,8 +7,11 @@
 :red_circle: Apple Fitness+ - Outage
 :red_circle: Podcasts - Outage
 :red_circle: Apple Music - Outage
+:red_circle: Apple Music radio - Outage
+:red_circle: Apple Music Subscriptions - Outage
 :large_yellow_circle: Apple School Manager - Issue
 :red_circle: Apple Sports - Outage
+:red_circle: Subscription Purchase - Outage
 :red_circle: Apple TV Channels - Outage
 :red_circle: Apple TV+ - Outage
 :red_circle: AppleCare on Device - Outage
