@@ -1,3 +1,1 @@
-:large_yellow_circle: Apple Business Essentials - Issue
-:large_yellow_circle: Apple Business Manager - Issue
-:large_yellow_circle: Apple School Manager - Issue
+:large_green_circle: All services are operating normally.
