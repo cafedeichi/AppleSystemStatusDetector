@@ -1,1 +1,1 @@
-:large_yellow_circle: Developer ID Notary Service - Issue
+:large_green_circle: All services are operating normally.
