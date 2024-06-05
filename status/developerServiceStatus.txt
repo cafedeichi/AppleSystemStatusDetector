@@ -1,1 +1,1 @@
-:red_circle: WeatherKit - Outage
+:large_green_circle: All services are operating normally.
