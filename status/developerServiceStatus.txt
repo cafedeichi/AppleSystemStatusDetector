@@ -1,1 +1,6 @@
-:large_green_circle: All services are operating normally.
+:large_green_circle: Account - Upcoming Maintenance
+:large_green_circle: Certificates, Identifiers & Profiles - Upcoming Maintenance
+:large_green_circle: Contact Us - Upcoming Maintenance
+:large_green_circle: Program Enrollment and Renewals - Upcoming Maintenance
+:large_green_circle: Software Downloads - Upcoming Maintenance
+:large_green_circle: Xcode Automatic Configuration - Upcoming Maintenance
