@@ -1,2 +1,1 @@
-:white_circle: Apple Business Manager - Maintenance In Progress
-:white_circle: Apple School Manager - Maintenance In Progress
+:large_green_circle: All services are operating normally.
