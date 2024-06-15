@@ -1,2 +1,2 @@
-:large_green_circle: Apple Business Manager - Upcoming Maintenance
-:large_green_circle: Apple School Manager - Upcoming Maintenance
+:white_circle: Apple Business Manager - Maintenance In Progress
+:white_circle: Apple School Manager - Maintenance In Progress
