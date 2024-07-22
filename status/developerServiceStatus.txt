@@ -1,1 +1,2 @@
 :large_yellow_circle: App Store Connect - Sales and Trends - Performance
+:red_circle: Xcode Cloud - Outage
