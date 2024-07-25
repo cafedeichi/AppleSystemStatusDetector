@@ -1,1 +1,1 @@
-:red_circle: CloudKit Console - 1 Outage, 1 Resolved Outage
+:large_green_circle: All services are operating normally.
