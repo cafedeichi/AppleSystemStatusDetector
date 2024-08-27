@@ -1,1 +1,2 @@
-:large_green_circle: All services are operating normally.
+:red_circle: Apple Books - Outage
+:red_circle: Mac App Store - Outage
