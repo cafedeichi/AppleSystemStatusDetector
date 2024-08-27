@@ -1,6 +1,8 @@
+:large_yellow_circle: Find My - Issue
 :large_yellow_circle: Game Center - Issue
 :large_yellow_circle: News - Performance
 :large_yellow_circle: Photos - Issue
 :large_yellow_circle: iCloud Mail - Issue
 :large_yellow_circle: Stocks - Performance
 :large_yellow_circle: iCloud Web Apps (iCloud.com) - Issue
+:large_yellow_circle: iWork for iCloud - Issue
