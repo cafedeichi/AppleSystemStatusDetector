@@ -1,2 +1,1 @@
-:large_yellow_circle: iMessage - Performance
-:large_yellow_circle: FaceTime - Performance
+:large_green_circle: All services are operating normally.
