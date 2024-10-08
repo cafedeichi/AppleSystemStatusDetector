@@ -1,1 +1,3 @@
-:large_green_circle: All services are operating normally.
+:large_yellow_circle: Apple Business Essentials - Performance
+:large_yellow_circle: Apple Business Manager - Performance
+:large_yellow_circle: Apple School Manager - Performance
