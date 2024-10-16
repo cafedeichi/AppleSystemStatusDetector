@@ -1,2 +1,1 @@
-:red_circle: App Store - Server Notifications - Outage
-:red_circle: App Store Connect - Analytics - Outage
+:large_green_circle: All services are operating normally.
