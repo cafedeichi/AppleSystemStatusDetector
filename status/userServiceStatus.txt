@@ -1,2 +1,5 @@
+:large_yellow_circle: Apple Business Essentials - 1 Issue, 2 Resolved Issues
+:large_yellow_circle: Apple Business Manager - 1 Issue, 1 Resolved Issue, 1 Resolved Performance
+:large_yellow_circle: Apple School Manager - 1 Issue, 2 Resolved Issues
 :red_circle: Subscription Purchase - Outage
 :red_circle: Volume Purchase Program - Outage
