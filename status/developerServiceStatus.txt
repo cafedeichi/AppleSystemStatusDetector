@@ -6,4 +6,4 @@
 :red_circle: App Store Connect - TestFlight - Outage
 :red_circle: App Store Connect API - Outage
 :red_circle: Apple Music for Artists - Outage
-:large_yellow_circle: Xcode Cloud - Performance
+:large_yellow_circle: Xcode Cloud - Issue
