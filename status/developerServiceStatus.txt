@@ -1,9 +1,3 @@
-:red_circle: Apple Podcasts Connect - Outage
 :red_circle: App Store - Server Notifications - Outage
-:red_circle: App Store Connect - Outage
 :red_circle: App Store Connect - Analytics - Outage
-:red_circle: App Store Connect - App Processing  - Outage
-:red_circle: App Store Connect - TestFlight - Outage
-:red_circle: App Store Connect API - Outage
-:red_circle: Apple Music for Artists - Outage
 :large_yellow_circle: Xcode Cloud - Issue
