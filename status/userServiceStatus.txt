@@ -1,1 +1,2 @@
-:large_green_circle: All services are operating normally.
+:red_circle: Subscription Purchase - Outage
+:red_circle: Volume Purchase Program - Outage
