@@ -1,4 +1,5 @@
 :red_circle: Apple Podcasts Connect - Outage
+:red_circle: App Store - Server Notifications - Outage
 :red_circle: App Store Connect - Outage
 :red_circle: App Store Connect - Analytics - Outage
 :red_circle: App Store Connect - App Processing  - Outage
