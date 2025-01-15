@@ -57,9 +57,9 @@ function getData(html) {
                 console.log(serviceWithComment.text());
 
                 // Detect Issues
-                if (status.match('available|resolved|completed')) {
+                if (status.match('available')) {
                     // Do Nothing
-                } else if (status.match('upcoming')) {    
+                } else if (status.match('upcoming|resolved|completed')) {    
                     issues = issues + ':large_green_circle: ' + serviceWithComment.text() + '\n';
                 } else if (status.match('issue')) {
                     issues = issues + ':large_yellow_circle: ' + serviceWithComment.text() + '\n';
