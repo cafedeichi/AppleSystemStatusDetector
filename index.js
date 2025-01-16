@@ -1,92 +1,96 @@
+const puppeteer = require('puppeteer');
 const core = require('@actions/core');
-const Nightmare = require('nightmare');
 const Path = require('path');
 const cheerio = require('cheerio');
 const fs = require('fs');
 
+// Puppeteer configuration
 const configuration = {
-    show: false,
-    width: 1600,
-    height: 1200
-}
+    headless: true, // true: headless mode, false: display browser
+    defaultViewport: {
+        width: 1600,
+        height: 1200
+    },
+    args: [
+        '--no-sandbox', // Avoid the impact of security restrictions (for CI environments)    
+        '--disable-setuid-sandbox'
+    ]
+};
+
 const userUrl = 'https://www.apple.com/support/systemstatus/';
 const userFilePath = 'status/userServiceStatus.txt';
 const developerUrl = 'https://developer.apple.com/system-status/';
 const developerFilePath = 'status/developerServiceStatus.txt';
 let isAppStoreOutage = false;
 
-Nightmare(configuration)
-    .goto(userUrl)
-    .wait('body')
-    .evaluate(() => document.querySelector('body').innerHTML)
-    .end()
-    .then( response => {
-        let result = getData(response);
-        write(userFilePath, result);
+(async () => {
+    try {
+        // Fetch and process user system status
+        const userHtml = await fetchPageContent(userUrl, configuration);
+        const userResult = getData(userHtml);
+        write(userFilePath, userResult);
         core.setOutput('mention', isAppStoreOutage ? '<!here>\n' : '');
-        core.setOutput('system_status', '<' + userUrl + '|*System Status:*>\n' + result);
-    }).catch(error => {
-        core.setFailed(`Data Fetching failed with error ${error}`);
-    });
+        core.setOutput('system_status', `<${userUrl}|*System Status:*>\n${userResult}`);
 
-Nightmare(configuration)
-    .goto(developerUrl)
-    .wait('body')
-    .evaluate(() => document.querySelector('body').innerHTML)
-    .end()
-    .then( response => {
-        let result = getData(response);
-        write(developerFilePath, result);
+        // Fetch and process developer system status
+        const developerHtml = await fetchPageContent(developerUrl, configuration);
+        const developerResult = getData(developerHtml);
+        write(developerFilePath, developerResult);
         core.setOutput('mention', isAppStoreOutage ? '<!here>\n' : '');
-        core.setOutput('developer_system_status', '<' + developerUrl + '|*Developer System Status:*>\n' + result);
-    }).catch(error => {
-        core.setFailed(`Data Fetching failed with error ${error}`);
-    });
+        core.setOutput('developer_system_status', `<${developerUrl}|*Developer System Status:*>\n${developerResult}`);
+    } catch (error) {
+        core.setFailed(`Error: ${error.message}`);
+    }
+})();
+
+async function fetchPageContent(url, config) {
+    const browser = await puppeteer.launch(config);
+    const page = await browser.newPage();
+    // Wait until the page load stabilizes
+    await page.goto(url, { waitUntil: 'networkidle0' });
+    const content = await page.content();
+    await browser.close();
+    return content;
+}
 
 function getData(html) {
     try {
         const $ = cheerio.load(html);
         const events = $('.section-lights').find('.light-container');
+        console.log(`Number of events found: ${events.length}`);
         let issues = '';
         events.each((index, element) => {
             let status = $(element).find('.light-content.light-image').children().attr('class');
             let serviceWithComment = $(element).children().find('.light-link');
 
-            // Logging
-            if(serviceWithComment.length > 0) {
-                console.log(serviceWithComment.text());
+            if (serviceWithComment.length > 0) {
+                console.log(`Status updated: ${serviceWithComment.text()}`);
 
-                // Detect Issues
                 if (status.match('available')) {
                     // Do Nothing
-                } else if (status.match('upcoming|resolved|completed')) {    
-                    issues = issues + ':large_green_circle: ' + serviceWithComment.text() + '\n';
+                } else if (status.match('upcoming|resolved|completed')) {
+                    issues += `:large_green_circle: ${serviceWithComment.text()}\n`;
                 } else if (status.match('issue')) {
-                    issues = issues + ':large_yellow_circle: ' + serviceWithComment.text() + '\n';
+                    issues += `:large_yellow_circle: ${serviceWithComment.text()}\n`;
                 } else if (status.match('outage')) {
-                    if (serviceWithComment.text().indexOf('App Store') == 0) {
+                    if (serviceWithComment.text().startsWith('App Store')) {
                         isAppStoreOutage = true;
                     }
-                    issues = issues + ':red_circle: ' + serviceWithComment.text() + '\n';
+                    issues += `:red_circle: ${serviceWithComment.text()}\n`;
                 } else if (status.match('maintenance')) {
-                    issues = issues + ':white_circle: ' + serviceWithComment.text() + '\n';
+                    issues += `:white_circle: ${serviceWithComment.text()}\n`;
                 } else {
-                    issues = issues + ':black_circle: ' + serviceWithComment.text() + '\n';
+                    issues += `:black_circle: ${serviceWithComment.text()}\n`;
                 }
             } else {
-                console.log($(element).find('.light-content.light-name').text())
+                console.log($(element).find('.light-content.light-name').text());
             }
-        })
+        });
 
-        let result = '';
-        if(issues.length == 0){
-            result = ':large_green_circle: All services are operating normally.\n'
-        } else {
-            result = issues;
-        }
-        return result;
-
-    } catch(error) {
+        return issues.length === 0
+            ? ':large_green_circle: All services are operating normally.\n'
+            : issues;
+    } catch (error) {
         core.setFailed(`Scraping failed with error ${error}`);
     }
 }
@@ -94,7 +98,7 @@ function getData(html) {
 function write(filePath, stream) {
     try {
         fs.writeFileSync(Path.join(__dirname, filePath), stream, { flag: 'w+' });
-    } catch(error) {
+    } catch (error) {
         core.setFailed(`Creating file failed with error ${error}`);
     }
 }

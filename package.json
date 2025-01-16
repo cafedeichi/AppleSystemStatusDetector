@@ -1,6 +1,6 @@
 {
   "name": "AppleServiceStatusDetector",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -10,11 +10,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@actions/core": "^1.9.1",
-    "cheerio": "^1.0.0-rc.12",
+    "@actions/core": "^1.11.1",
+    "cheerio": "^1.0.0",
     "fs": "0.0.1-security",
-    "nightmare": "^3.0.2",
-    "path": "^0.12.7"
+    "path": "^0.12.7",
+    "puppeteer": "^24.1.0"
   },
   "devDependencies": {},
   "description": "Checking hourly for updates to Apple Service Status",
