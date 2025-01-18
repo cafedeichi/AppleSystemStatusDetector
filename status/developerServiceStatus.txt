@@ -1,2 +1,1 @@
-:large_green_circle: Developer ID Notary Service - Resolved Performance
-:large_green_circle: Xcode Cloud - Resolved Outage
+:large_green_circle: All services are operating normally.
