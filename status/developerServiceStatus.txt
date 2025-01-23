@@ -1,2 +1,2 @@
 :large_green_circle: App Store - Server Notifications - Completed Maintenance
-:red_circle: Tap to Pay on iPhone - Outage
+:large_green_circle: Tap to Pay on iPhone - Resolved Outage
