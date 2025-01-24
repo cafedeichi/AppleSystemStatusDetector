@@ -1,4 +1,5 @@
-:large_yellow_circle: Find My - Performance
-:red_circle: iCloud Mail - Outage
+:large_green_circle: Find My - Resolved Performance
+:large_yellow_circle: iCloud Keychain - Issue
+:large_yellow_circle: iCloud Mail - Issue
 :large_yellow_circle: iCloud Web Apps (iCloud.com) - Issue
 :large_yellow_circle: iWork for iCloud - Issue
