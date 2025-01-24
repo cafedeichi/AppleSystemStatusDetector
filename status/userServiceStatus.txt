@@ -1,1 +1,4 @@
-:large_green_circle: All services are operating normally.
+:large_yellow_circle: Find My - Performance
+:red_circle: iCloud Mail - Outage
+:large_yellow_circle: iCloud Web Apps (iCloud.com) - Issue
+:large_yellow_circle: iWork for iCloud - Issue
