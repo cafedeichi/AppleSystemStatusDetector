@@ -1,5 +1,5 @@
 :large_green_circle: Find My - Resolved Performance
-:large_yellow_circle: iCloud Keychain - Issue
-:large_yellow_circle: iCloud Mail - Issue
-:large_yellow_circle: iCloud Web Apps (iCloud.com) - Issue
-:large_yellow_circle: iWork for iCloud - Issue
+:large_green_circle: iCloud Keychain - Resolved Issue
+:large_green_circle: iCloud Mail - Resolved Issue
+:large_green_circle: iCloud Web Apps (iCloud.com) - Resolved Issue
+:large_green_circle: iWork for iCloud - Resolved Issue
