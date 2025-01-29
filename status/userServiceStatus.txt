@@ -1,1 +1,1 @@
-:red_circle: Apple Pay - Outage
+:large_green_circle: Apple Pay - Resolved Outage
