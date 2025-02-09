@@ -1,2 +1,2 @@
-:large_yellow_circle: Apple Music Subscriptions - Issue
-:large_yellow_circle: iTunes Store - Issue
+:large_green_circle: Apple Music Subscriptions - Resolved Issue
+:large_green_circle: iTunes Store - Resolved Issue
