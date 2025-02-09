@@ -1,1 +1,4 @@
-:large_green_circle: All services are operating normally.
+:large_yellow_circle: App Store - In-App Purchases - Issue
+:large_yellow_circle: App Store - Receipt Verification - Issue
+:large_yellow_circle: App Store - Server Notifications - Issue
+:large_yellow_circle: App Store Connect API - Issue
