@@ -1,5 +1,5 @@
-:large_yellow_circle: Game Center - Performance
-:large_yellow_circle: iCloud Drive - Performance
-:large_yellow_circle: iCloud Keychain - Performance
+:large_green_circle: Game Center - Resolved Performance
+:large_green_circle: iCloud Drive - Resolved Performance
+:large_green_circle: iCloud Keychain - Resolved Performance
 :large_green_circle: Apple Music Subscriptions - Resolved Issue
 :large_green_circle: iTunes Store - Resolved Issue
