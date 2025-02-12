@@ -1,4 +1,1 @@
-:large_green_circle: App Store - In-App Purchases - Resolved Issue
-:large_green_circle: App Store - Receipt Verification - Resolved Issue
-:large_green_circle: App Store - Server Notifications - Resolved Issue
-:large_green_circle: App Store Connect API - Resolved Issue
+:large_green_circle: All services are operating normally.
