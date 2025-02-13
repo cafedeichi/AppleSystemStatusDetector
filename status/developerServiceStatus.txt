@@ -1,1 +1,2 @@
 :large_green_circle: Developer ID Notary Service - Resolved Issue
+:large_yellow_circle: Xcode Cloud - Performance
