@@ -1,1 +1,1 @@
-:large_yellow_circle: Game Center - Performance
+:large_green_circle: Game Center - Resolved Performance
