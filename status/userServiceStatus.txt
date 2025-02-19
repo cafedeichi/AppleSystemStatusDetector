@@ -1,4 +1,5 @@
 :large_green_circle: Find My - Resolved Issue
 :large_green_circle: iCloud Account & Sign In - Resolved Issue
 :large_green_circle: iCloud Mail - Resolved Issue
+:large_yellow_circle: Schoolwork - Issue
 :large_green_circle: iCloud Storage Upgrades - Resolved Issue
