@@ -1,5 +1,1 @@
-:large_yellow_circle: Apple Business Essentials - Issue
-:large_yellow_circle: Apple Business Manager - Issue
-:large_yellow_circle: Apple Music radio - Performance
-:large_yellow_circle: Apple School Manager - Issue
-:red_circle: Volume Purchase Program - Outage
+:large_green_circle: All services are operating normally.
