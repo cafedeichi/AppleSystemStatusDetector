@@ -8,4 +8,4 @@
 :large_green_circle: App Store Connect - TestFlight - Upcoming Maintenance
 :large_green_circle: App Store Connect API - Upcoming Maintenance
 :large_green_circle: Apple Music for Artists - Upcoming Maintenance
-:large_yellow_circle: Xcode Cloud - Issue
+:large_green_circle: Xcode Cloud - Resolved Issue
