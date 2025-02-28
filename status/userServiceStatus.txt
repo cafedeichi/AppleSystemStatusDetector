@@ -3,4 +3,4 @@
 :large_green_circle: Apple Music radio - Resolved Performance
 :large_green_circle: iCloud Mail - Resolved Issue
 :large_green_circle: Apple School Manager - Resolved Issue
-:large_green_circle: Volume Purchase Program - 2 Resolved Outages
+:large_green_circle: Volume Purchase Program - 1 Resolved Outage, 1 Resolved Performance
