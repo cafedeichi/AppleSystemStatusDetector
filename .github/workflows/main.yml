@@ -9,13 +9,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Git check-out
-        uses: actions/checkout@master
+        uses: actions/checkout@v4
       - name: Setup node
-        uses: actions/setup-node@master
+        uses: actions/setup-node@v4
         with:
           node-version: '23.x'
       - name: Cache node modules
-        uses: actions/cache@v2
+        uses: actions/cache@v4
         env:
           cache-name: cache-node-modules
         with:
@@ -50,13 +50,13 @@ jobs:
               git remote add origin https://cafedeichi:$PUSH_TOKEN@github.com/cafedeichi/AppleSystemStatusDetector.git
               git push origin HEAD:main
               echo "Updates found."
-              echo ::set-output name=updated::true
+              echo "updated=true" >> $GITHUB_ENV
           else
               echo "Updates not found."
-              echo ::set-output name=updated::false
+              echo "updated=false" >> $GITHUB_ENV
           fi
       - name: Slack notification
-        if: success() && steps.git-check-in.outputs.updated == 'true'
+        if: success() && env.updated == 'true'
         env:
           CHANNEL: "#apple_system_status"
           USERNAME: "Apple System Status"
