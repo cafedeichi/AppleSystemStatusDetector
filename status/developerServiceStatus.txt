@@ -1,1 +1,1 @@
-:white_circle: Apple Pay Sandbox Instance - Maintenance In Progress
+:large_green_circle: All services are operating normally.
