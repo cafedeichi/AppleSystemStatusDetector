@@ -1,3 +1,1 @@
-:large_green_circle: Apple Business Essentials - Resolved Issue
-:large_green_circle: Apple Business Manager - Resolved Issue
 :large_green_circle: iCloud Mail - Resolved Issue
