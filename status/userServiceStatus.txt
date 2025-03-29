@@ -1,1 +1,1 @@
-:large_yellow_circle: iCloud Calendar - Issue
+:large_green_circle: iCloud Calendar - Resolved Issue
