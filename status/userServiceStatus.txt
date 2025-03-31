@@ -1,1 +1,2 @@
-:large_green_circle: All services are operating normally.
+:large_green_circle: Apple Business Essentials - Resolved Issue
+:large_green_circle: Apple Business Manager - Resolved Issue
