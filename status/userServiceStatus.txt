@@ -1,2 +1,2 @@
-:red_circle: Maps Traffic - Outage
+:large_green_circle: Maps Traffic - Resolved Outage
 :large_green_circle: Podcasts - Resolved Performance
