@@ -1,1 +1,6 @@
+:red_circle: App Store - Outage
 :large_green_circle: Maps Traffic - Resolved Outage
+:red_circle: Podcasts - Outage
+:red_circle: Apple Fitness+ - Outage
+:red_circle: Apple Music - Outage
+:red_circle: Apple TV+ - Outage

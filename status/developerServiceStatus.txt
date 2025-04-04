@@ -1,3 +1,7 @@
+:red_circle: Apple Podcasts Connect - Outage
 :large_green_circle: App Store - Sandbox - Resolved Outage
-:large_green_circle: App Store Connect - App Processing  - Resolved Performance
-:large_green_circle: Apple Music for Artists - Resolved Performance
+:large_yellow_circle: App Store Connect - Performance
+:red_circle: App Store Connect - Analytics - Outage
+:large_yellow_circle: App Store Connect - App Processing  - 1 Performance, 1 Resolved Performance
+:red_circle: App Store Connect - Sales and Trends - Outage
+:large_yellow_circle: Apple Music for Artists - 1 Performance, 1 Resolved Performance
