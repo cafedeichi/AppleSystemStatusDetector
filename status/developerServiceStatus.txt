@@ -1,5 +1,4 @@
 :large_green_circle: Apple Podcasts Connect - Resolved Outage
-:large_green_circle: App Store - Sandbox - Resolved Outage
 :large_green_circle: App Store Connect - Resolved Performance
 :large_green_circle: App Store Connect - Analytics - Resolved Outage
 :large_green_circle: App Store Connect - App Processing  - 2 Resolved Performance Issues
