@@ -1,1 +1,3 @@
+:large_green_circle: App Store - Receipt Verification - Resolved Outage
+:large_green_circle: App Store - Server APIs - Resolved Outage
 :large_green_circle: Xcode Cloud - Resolved Issue
