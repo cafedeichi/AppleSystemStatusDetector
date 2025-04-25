@@ -1,2 +1,2 @@
-:red_circle: App Store Connect - Outage
-:red_circle: App Store Connect - App Processing  - Outage
+:large_green_circle: App Store Connect - Resolved Outage
+:large_green_circle: App Store Connect - App Processing  - Resolved Outage
