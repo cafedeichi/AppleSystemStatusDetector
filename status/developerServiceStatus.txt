@@ -1,1 +1,2 @@
-:large_green_circle: All services are operating normally.
+:red_circle: App Store Connect - Outage
+:red_circle: App Store Connect - App Processing  - Outage
