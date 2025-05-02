@@ -1,8 +1,11 @@
 :large_green_circle: Account - Upcoming Maintenance
-:large_green_circle: Apple Podcasts Connect - Resolved Issue
+:large_green_circle: Apple Podcasts Connect - 1 Resolved Issue, 2 Upcoming Maintenances
 :large_green_circle: Certificates, Identifiers & Profiles - Upcoming Maintenance
 :large_green_circle: Code-level Support - Upcoming Maintenance
 :large_green_circle: Contact Us - Upcoming Maintenance
+:large_green_circle: App Store Connect - App Processing  - Upcoming Maintenance
+:large_green_circle: App Store Connect - TestFlight - Upcoming Maintenance
 :large_green_circle: Program Enrollment and Renewals - Upcoming Maintenance
+:large_green_circle: Apple Music for Artists - Upcoming Maintenance
 :large_green_circle: Xcode Automatic Configuration - Upcoming Maintenance
 :large_green_circle: Xcode Cloud - Upcoming Maintenance
