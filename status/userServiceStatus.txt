@@ -1,5 +1,3 @@
-:large_green_circle: Apple Business Essentials - 2 Resolved Outages, 1 Resolved Issue
-:large_green_circle: Apple Business Manager - 2 Resolved Outages, 1 Resolved Issue
-:large_green_circle: iCloud Account & Sign In - Resolved Outage
-:large_green_circle: Schoolwork - Resolved Outage
-:large_green_circle: Apple School Manager - 1 Resolved Outage, 1 Resolved Issue
+:large_green_circle: Apple Business Essentials - Resolved Issue
+:large_green_circle: Apple Business Manager - Resolved Issue
+:large_green_circle: Apple School Manager - Resolved Issue
