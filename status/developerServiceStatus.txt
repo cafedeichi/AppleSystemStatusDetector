@@ -1,10 +1,10 @@
-:white_circle: Apple Podcasts Connect - Maintenance In Progress
-:white_circle: App Store - Sandbox - Maintenance In Progress
-:white_circle: App Store Connect - Maintenance In Progress
-:white_circle: App Store Connect - Analytics - Maintenance In Progress
-:white_circle: App Store Connect - App Processing  - Maintenance In Progress
-:white_circle: App Store Connect - App Upload - Maintenance In Progress
-:white_circle: App Store Connect - Sales and Trends - Maintenance In Progress
-:white_circle: App Store Connect - TestFlight - Maintenance In Progress
-:white_circle: App Store Connect API - Maintenance In Progress
-:white_circle: Apple Music for Artists - Maintenance In Progress
+:large_green_circle: Apple Podcasts Connect - Completed Maintenance
+:large_green_circle: App Store - Sandbox - Completed Maintenance
+:large_green_circle: App Store Connect - Completed Maintenance
+:large_green_circle: App Store Connect - Analytics - Completed Maintenance
+:large_green_circle: App Store Connect - App Processing  - Completed Maintenance
+:large_green_circle: App Store Connect - App Upload - Completed Maintenance
+:large_green_circle: App Store Connect - Sales and Trends - Completed Maintenance
+:large_green_circle: App Store Connect - TestFlight - Completed Maintenance
+:large_green_circle: App Store Connect API - Completed Maintenance
+:large_green_circle: Apple Music for Artists - Completed Maintenance
