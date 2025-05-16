@@ -1,4 +1,4 @@
-:large_yellow_circle: Apple Card - Issue
-:large_yellow_circle: Apple Cash - Issue
+:large_green_circle: Apple Card - Resolved Issue
+:large_green_circle: Apple Cash - Resolved Issue
 :large_yellow_circle: Apple Pay - Issue
 :large_yellow_circle: Wallet - Issue
