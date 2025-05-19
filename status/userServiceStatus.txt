@@ -1,4 +1,1 @@
-:large_green_circle: Apple Card - Resolved Issue
-:large_green_circle: Apple Cash - Resolved Issue
-:large_green_circle: Apple Pay - Resolved Issue
-:large_green_circle: Wallet - Resolved Issue
+:large_green_circle: All services are operating normally.
