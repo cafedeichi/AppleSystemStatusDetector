@@ -1,2 +1,3 @@
-:large_green_circle: Apple Music - Resolved Outage
-:large_green_circle: Apple TV+ - Resolved Outage
+:red_circle: Apple Music - 1 Outage, 1 Resolved Outage
+:red_circle: Apple TV Channels - Outage
+:red_circle: Apple TV+ - 1 Outage, 1 Resolved Outage
