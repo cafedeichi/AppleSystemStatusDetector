@@ -1,1 +1,3 @@
 :large_yellow_circle: App Store Connect - Performance
+:large_yellow_circle: Apple News API - Performance
+:red_circle: Xcode Cloud - Outage
