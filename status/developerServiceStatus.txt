@@ -1,8 +1,8 @@
-:large_yellow_circle: Apple Podcasts Connect - Performance
-:large_yellow_circle: App Store Connect - Performance
+:large_green_circle: Apple Podcasts Connect - Resolved Performance
+:large_green_circle: App Store Connect - Resolved Performance
 :large_yellow_circle: News Publisher - Performance
-:large_yellow_circle: App Store Connect API - Performance
-:large_yellow_circle: Apple Music API - Performance
-:large_yellow_circle: Apple Music for Artists - Performance
+:large_green_circle: App Store Connect API - Resolved Performance
+:large_green_circle: Apple Music API - Resolved Performance
+:large_green_circle: Apple Music for Artists - Resolved Performance
 :large_yellow_circle: Apple News API - Performance
 :red_circle: Xcode Cloud - Outage
