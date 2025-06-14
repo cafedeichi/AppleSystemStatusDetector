@@ -1,4 +1,4 @@
-:large_green_circle: Apple Business Manager - Resolved Issue
+:large_yellow_circle: Apple Business Manager - 1 Issue, 1 Resolved Issue
 :large_green_circle: iCloud Calendar - Resolved Issue
 :large_green_circle: iCloud Contacts - Resolved Issue
-:large_green_circle: Apple School Manager - Resolved Issue
+:large_yellow_circle: Apple School Manager - 1 Issue, 1 Resolved Issue
