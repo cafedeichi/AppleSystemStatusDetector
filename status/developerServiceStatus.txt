@@ -1,1 +1,1 @@
-:large_yellow_circle: App Attest - Performance
+:large_green_circle: App Attest - Resolved Performance
