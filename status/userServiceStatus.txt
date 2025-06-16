@@ -1,2 +1,2 @@
-:large_green_circle: Apple Business Manager - 2 Resolved Issues
-:large_green_circle: Apple School Manager - 2 Resolved Issues
+:large_green_circle: Apple Business Manager - Resolved Issue
+:large_green_circle: Apple School Manager - Resolved Issue
