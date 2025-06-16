@@ -1,2 +1,3 @@
 :large_green_circle: Apple Business Manager - Resolved Issue
+:large_yellow_circle: iCloud Storage Upgrades - Issue
 :large_green_circle: Apple School Manager - Resolved Issue
