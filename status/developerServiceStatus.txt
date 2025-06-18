@@ -1,2 +1,1 @@
-:large_green_circle: App Attest - Resolved Performance
 :large_green_circle: App Store - In-App Purchases - Resolved Issue
