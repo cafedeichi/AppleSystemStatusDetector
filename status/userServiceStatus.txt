@@ -1,1 +1,3 @@
+:large_yellow_circle: Apple Business Manager - Issue
+:red_circle: Schoolwork - Outage
 :large_green_circle: iCloud Mail - Resolved Issue
