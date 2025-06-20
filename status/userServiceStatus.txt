@@ -3,3 +3,5 @@
 :large_green_circle: Schoolwork - Resolved Outage
 :large_green_circle: iCloud Mail - Resolved Issue
 :large_green_circle: iCloud Web Apps (iCloud.com) - Resolved Issue
+:large_green_circle: iMessage - Resolved Issue
+:large_green_circle: FaceTime - Resolved Issue
