@@ -1,3 +1,1 @@
-:large_green_circle: Podcasts - Resolved Performance
-:large_green_circle: iMessage - Resolved Issue
-:large_green_circle: FaceTime - Resolved Issue
+:large_green_circle: All services are operating normally.
