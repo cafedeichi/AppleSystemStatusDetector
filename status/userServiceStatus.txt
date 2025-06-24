@@ -1,5 +1,7 @@
+:large_yellow_circle: Find My - Issue
 :large_green_circle: Apple Business Essentials - 1 Resolved Outage, 1 Resolved Issue
 :large_green_circle: Apple Business Manager - 1 Resolved Outage, 1 Resolved Issue
+:large_yellow_circle: iCloud Account & Sign In - Issue
 :large_yellow_circle: Photos - Issue
 :large_yellow_circle: iCloud Mail - Issue
 :large_yellow_circle: iCloud Storage Upgrades - Issue
