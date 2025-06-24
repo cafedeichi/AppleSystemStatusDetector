@@ -1,1 +1,3 @@
-:large_green_circle: All services are operating normally.
+:red_circle: Developer ID Notary Service - Outage
+:large_yellow_circle: News Publisher - Issue
+:large_yellow_circle: Apple News API - Issue
