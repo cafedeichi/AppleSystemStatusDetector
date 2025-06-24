@@ -1,3 +1,8 @@
 :large_green_circle: Apple Business Essentials - 1 Resolved Outage, 1 Resolved Issue
 :large_green_circle: Apple Business Manager - 1 Resolved Outage, 1 Resolved Issue
+:large_yellow_circle: Photos - Issue
+:large_yellow_circle: iCloud Mail - Issue
+:large_yellow_circle: iCloud Storage Upgrades - Issue
 :large_green_circle: Apple School Manager - 1 Resolved Outage, 1 Resolved Issue
+:red_circle: iCloud Web Apps (iCloud.com) - Outage
+:red_circle: iWork for iCloud - Outage
