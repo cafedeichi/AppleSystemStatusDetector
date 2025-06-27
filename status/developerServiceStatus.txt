@@ -1,3 +1,4 @@
-:large_green_circle: Developer ID Notary Service - Resolved Outage
+:large_yellow_circle: App Store Connect - Issue
 :large_green_circle: News Publisher - Resolved Issue
+:large_yellow_circle: App Store Connect - TestFlight - Issue
 :large_green_circle: Apple News API - Resolved Issue
