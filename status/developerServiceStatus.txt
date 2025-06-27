@@ -1,3 +1,1 @@
-:large_green_circle: News Publisher - Resolved Issue
 :large_green_circle: App Store Connect - TestFlight - Resolved Issue
-:large_green_circle: Apple News API - Resolved Issue
