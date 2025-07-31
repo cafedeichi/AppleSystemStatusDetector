@@ -1,2 +1,2 @@
 :large_green_circle: iCloud Mail - Resolved Issue
-:red_circle: Wallet - Outage
+:large_green_circle: Wallet - 2 Resolved Outages
