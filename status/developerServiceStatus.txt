@@ -1,6 +1,6 @@
 :red_circle: Apple Podcasts Connect - Outage
 :red_circle: App Store Connect - Outage
-:red_circle: App Store Connect - App Processing  - Outage
-:red_circle: App Store Connect - App Upload - Outage
-:red_circle: App Store Connect - TestFlight - Outage
-:red_circle: App Store Connect API - Outage
+:large_green_circle: App Store Connect - App Processing  - Resolved Outage
+:large_green_circle: App Store Connect - App Upload - Resolved Outage
+:large_green_circle: App Store Connect - TestFlight - Resolved Outage
+:large_green_circle: App Store Connect API - Resolved Outage
