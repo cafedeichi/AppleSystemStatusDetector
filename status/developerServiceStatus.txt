@@ -1,1 +1,6 @@
-:large_green_circle: All services are operating normally.
+:large_green_circle: Apple Podcasts Connect - Resolved Outage
+:large_green_circle: App Store Connect - Resolved Outage
+:large_green_circle: App Store Connect - App Processing  - Resolved Outage
+:large_green_circle: App Store Connect - App Upload - Resolved Outage
+:large_green_circle: App Store Connect - TestFlight - Resolved Outage
+:large_green_circle: App Store Connect API - Resolved Outage
