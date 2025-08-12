@@ -1,1 +1,4 @@
 :red_circle: Developer ID Notary Service - Outage
+:red_circle: App Store Connect - Outage
+:red_circle: App Store Connect - App Processing  - Outage
+:red_circle: App Store Connect - TestFlight - Outage
