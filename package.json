@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "@actions/core": "^1.11.1",
-    "cheerio": "^1.1.1",
+    "cheerio": "^1.1.2",
     "fs": "0.0.1-security",
     "path": "^0.12.7",
     "puppeteer": "^24.15.0"
