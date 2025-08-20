@@ -1,2 +1,2 @@
-:large_yellow_circle: Device Enrollment Program - Issue
+:large_green_circle: Device Enrollment Program - Resolved Issue
 :large_green_circle: App Store Connect - TestFlight - Upcoming Maintenance
