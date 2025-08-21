@@ -1,2 +1,2 @@
 :large_green_circle: Device Enrollment Program - Resolved Issue
-:white_circle: App Store Connect - TestFlight - Maintenance In Progress
+:large_green_circle: App Store Connect - TestFlight - Completed Maintenance
