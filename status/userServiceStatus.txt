@@ -1,1 +1,1 @@
-:large_yellow_circle: iWork Collaboration - Issue
+:large_green_circle: iWork Collaboration - Resolved Issue
