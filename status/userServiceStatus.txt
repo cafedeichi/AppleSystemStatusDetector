@@ -1,1 +1,1 @@
-:large_yellow_circle: Apple Business Manager - Issue
+:large_green_circle: Apple Business Manager - Resolved Issue
