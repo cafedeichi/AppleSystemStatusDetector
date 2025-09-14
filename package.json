@@ -14,7 +14,7 @@
     "cheerio": "^1.1.1",
     "fs": "0.0.1-security",
     "path": "^0.12.7",
-    "puppeteer": "^24.15.0"
+    "puppeteer": "^24.20.0"
   },
   "devDependencies": {},
   "description": "Checking hourly for updates to Apple Service Status",
