@@ -1,1 +1,3 @@
 :large_yellow_circle: App Store - Performance
+:large_green_circle: iCloud Mail - Resolved Performance
+:large_green_circle: iWork for iCloud - Resolved Performance
