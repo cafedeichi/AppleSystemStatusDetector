@@ -1,4 +1,1 @@
-:large_green_circle: App Store - In-App Purchases - Resolved Outage
-:large_green_circle: App Store - Receipt Verification - Resolved Outage
-:large_green_circle: App Store - Server APIs - Resolved Outage
-:red_circle: Developer ID Notary Service - Outage
+:large_green_circle: All services are operating normally.
