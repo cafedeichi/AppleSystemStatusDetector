@@ -1,2 +1,2 @@
-:red_circle: App Store - In-App Purchases - Outage
+:large_green_circle: App Store - In-App Purchases - Resolved Outage
 :red_circle: Developer ID Notary Service - Outage
