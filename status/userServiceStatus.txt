@@ -1,2 +1,2 @@
-:large_yellow_circle: Find My - Issue
+:large_green_circle: Find My - Resolved Issue
 :large_green_circle: Maps Display - Resolved Issue
