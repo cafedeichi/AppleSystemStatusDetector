@@ -1,2 +1,3 @@
 :large_green_circle: Find My - Resolved Issue
 :large_green_circle: Maps Display - Resolved Issue
+:large_green_circle: iCloud Mail - Resolved Issue
