@@ -1,7 +1,7 @@
 :red_circle: App Store - Outage
-:large_yellow_circle: Apple Business Essentials - Issue
-:large_yellow_circle: Apple Business Manager - Issue
+:large_green_circle: Apple Business Essentials - Resolved Issue
+:large_green_circle: Apple Business Manager - Resolved Issue
 :red_circle: Apple Music - Outage
 :large_yellow_circle: iCloud Storage Upgrades - Issue
-:large_yellow_circle: Apple School Manager - Issue
+:large_green_circle: Apple School Manager - Resolved Issue
 :red_circle: Apple TV+ - Outage
