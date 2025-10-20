@@ -1,4 +1,5 @@
 :red_circle: App Store - Outage
+:large_yellow_circle: Apple Business Essentials - Issue
 :large_yellow_circle: Apple Business Manager - Issue
 :red_circle: Apple Music - Outage
 :red_circle: iCloud Storage Upgrades - Outage
