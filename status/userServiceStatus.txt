@@ -3,6 +3,6 @@
 :large_green_circle: Apple Business Manager - 3 Resolved Issues
 :large_yellow_circle: Apple Card - Issue
 :large_green_circle: Apple Music - Resolved Outage
-:large_green_circle: iCloud Storage Upgrades - Resolved Issue
+:large_green_circle: iCloud Storage Upgrades - 2 Resolved Issues
 :large_green_circle: Apple School Manager - 3 Resolved Issues
 :large_green_circle: Apple TV+ - Resolved Outage
