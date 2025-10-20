@@ -1,3 +1,4 @@
+:red_circle: App Store - Outage
 :red_circle: Apple Music - Outage
 :large_yellow_circle: iCloud Storage Upgrades - Issue
 :red_circle: Apple TV+ - Outage
