@@ -1,1 +1,3 @@
-:large_green_circle: All services are operating normally.
+:large_green_circle: Apple Podcasts Connect - Resolved Outage
+:large_green_circle: App Store Connect - TestFlight - Resolved Outage
+:large_green_circle: Apple Music for Artists - Resolved Outage
