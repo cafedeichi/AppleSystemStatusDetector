@@ -1,5 +1,1 @@
-:large_green_circle: Apple Business Essentials - 2 Resolved Issues
-:large_green_circle: Apple Business Manager - 2 Resolved Issues
-:large_green_circle: Apple Card - Resolved Issue
-:large_green_circle: iCloud Storage Upgrades - Resolved Issue
-:large_green_circle: Apple School Manager - 2 Resolved Issues
+:large_green_circle: All services are operating normally.
