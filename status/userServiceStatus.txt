@@ -1,1 +1,2 @@
+:large_yellow_circle: App Store - Issue
 :large_green_circle: iCloud Mail - Resolved Issue
