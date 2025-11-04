@@ -1,1 +1,1 @@
-:large_yellow_circle: App Store - Sandbox - Issue
+:large_green_circle: App Store - Sandbox - Resolved Issue
