@@ -1,1 +1,3 @@
-:large_green_circle: All services are operating normally.
+:red_circle: Apple Arcade - Outage
+:red_circle: Apple Music - Outage
+:red_circle: Apple TV - Outage
