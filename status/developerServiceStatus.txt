@@ -1,2 +1,1 @@
-:large_green_circle: Developer ID Notary Service - Resolved Outage
 :large_yellow_circle: App Store Connect - TestFlight - Performance
