@@ -1,3 +1,1 @@
-:large_green_circle: Apple Business Essentials - Resolved Outage
-:large_green_circle: Apple Business Manager - Resolved Outage
-:large_green_circle: Apple School Manager - Resolved Outage
+:large_green_circle: All services are operating normally.
