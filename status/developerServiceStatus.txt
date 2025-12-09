@@ -1,2 +1,2 @@
 :large_green_circle: Developer ID Notary Service - Resolved Issue
-:large_yellow_circle: App Store Connect - Issue
+:large_green_circle: App Store Connect - Resolved Issue
