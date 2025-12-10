@@ -1,4 +1,4 @@
-:large_green_circle: Game Center - Resolved Issue
+:red_circle: Game Center - 1 Outage, 1 Resolved Issue
 :red_circle: Apple Music - Outage
 :red_circle: Apple TV Channels - Outage
 :red_circle: Apple TV - Outage
