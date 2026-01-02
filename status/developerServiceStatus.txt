@@ -1,1 +1,1 @@
-:large_yellow_circle: App Store - In-App Purchases - Performance
+:large_green_circle: App Store - In-App Purchases - Resolved Performance
