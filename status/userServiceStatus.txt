@@ -1,2 +1,2 @@
-:large_yellow_circle: Apple Invites - Issue
+:large_green_circle: Apple Invites - Resolved Issue
 :large_green_circle: iWork Collaboration - Resolved Outage
