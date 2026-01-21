@@ -1,4 +1,6 @@
 :red_circle: App Store - Outage
+:red_circle: Maps Traffic - Outage
 :red_circle: Apple TV Channels - Outage
 :red_circle: Apple TV - Outage
 :red_circle: iTunes Store - Outage
+:large_yellow_circle: iWork for iCloud - Issue
