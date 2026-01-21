@@ -1,4 +1,5 @@
 :large_green_circle: App Store - Resolved Outage
+:large_green_circle: Find My - Resolved Performance
 :large_green_circle: Maps Routing & Navigation - Resolved Outage
 :large_green_circle: Apple Business Essentials - Resolved Issue
 :large_green_circle: Maps Traffic - Resolved Outage
