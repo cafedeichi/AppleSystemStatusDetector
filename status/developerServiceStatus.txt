@@ -1,16 +1,16 @@
-:red_circle: Apple Podcasts Connect - Outage
-:red_circle: App Store - Advanced Commerce API - Outage
-:red_circle: App Store - In-App Purchases - Outage
-:red_circle: App Store - Receipt Verification - Outage
-:red_circle: App Store - Sandbox - Outage
+:large_green_circle: Apple Podcasts Connect - Resolved Outage
+:large_green_circle: App Store - Advanced Commerce API - Resolved Outage
+:large_green_circle: App Store - In-App Purchases - Resolved Outage
+:large_green_circle: App Store - Receipt Verification - Resolved Outage
+:large_green_circle: App Store - Sandbox - Resolved Outage
 :large_green_circle: App Store - Server Notifications - Completed Maintenance
 :red_circle: Developer ID Notary Service - Outage
-:red_circle: App Store Connect - Outage
-:red_circle: App Store Connect - App Processing  - Outage
-:large_yellow_circle: News Publisher - Issue
-:red_circle: App Store Connect - Sales and Trends - Outage
-:red_circle: App Store Connect - TestFlight - Outage
-:red_circle: App Store Connect API - Outage
-:red_circle: Apple Music for Artists - Outage
-:large_yellow_circle: Apple News API - Issue
+:large_green_circle: App Store Connect - Resolved Outage
+:large_green_circle: App Store Connect - App Processing  - Resolved Outage
+:large_green_circle: News Publisher - Resolved Issue
+:large_green_circle: App Store Connect - Sales and Trends - Resolved Outage
+:large_green_circle: App Store Connect - TestFlight - Resolved Outage
+:large_green_circle: App Store Connect API - Resolved Outage
+:large_green_circle: Apple Music for Artists - Resolved Outage
+:large_green_circle: Apple News API - Resolved Issue
 :red_circle: Xcode Cloud - Outage
