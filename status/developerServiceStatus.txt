@@ -4,7 +4,7 @@
 :large_green_circle: App Store - Receipt Verification - Resolved Outage
 :large_green_circle: App Store - Sandbox - Resolved Outage
 :large_green_circle: App Store - Server Notifications - Completed Maintenance
-:red_circle: Developer ID Notary Service - Outage
+:large_green_circle: Developer ID Notary Service - Resolved Outage
 :large_green_circle: App Store Connect - Resolved Outage
 :large_green_circle: App Store Connect - App Processing  - Resolved Outage
 :large_green_circle: News Publisher - Resolved Issue
@@ -13,4 +13,4 @@
 :large_green_circle: App Store Connect API - Resolved Outage
 :large_green_circle: Apple Music for Artists - Resolved Outage
 :large_green_circle: Apple News API - Resolved Issue
-:red_circle: Xcode Cloud - Outage
+:large_green_circle: Xcode Cloud - Resolved Outage
