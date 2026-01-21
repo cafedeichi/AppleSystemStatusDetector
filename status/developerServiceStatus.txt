@@ -1,10 +1,16 @@
 :red_circle: Apple Podcasts Connect - Outage
+:red_circle: App Store - Advanced Commerce API - Outage
+:red_circle: App Store - In-App Purchases - Outage
+:red_circle: App Store - Receipt Verification - Outage
+:red_circle: App Store - Sandbox - Outage
 :large_green_circle: App Store - Server Notifications - Completed Maintenance
+:red_circle: Developer ID Notary Service - Outage
 :red_circle: App Store Connect - Outage
 :red_circle: App Store Connect - App Processing  - Outage
 :large_yellow_circle: News Publisher - Issue
 :red_circle: App Store Connect - Sales and Trends - Outage
 :red_circle: App Store Connect - TestFlight - Outage
+:red_circle: App Store Connect API - Outage
 :red_circle: Apple Music for Artists - Outage
 :large_yellow_circle: Apple News API - Issue
 :red_circle: Xcode Cloud - Outage

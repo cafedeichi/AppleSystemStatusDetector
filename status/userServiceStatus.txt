@@ -1,6 +1,14 @@
 :red_circle: App Store - Outage
+:red_circle: Maps Routing & Navigation - Outage
+:large_yellow_circle: Apple Business Essentials - Issue
 :red_circle: Maps Traffic - Outage
+:large_yellow_circle: Apple Business Manager - Issue
+:large_yellow_circle: News - Issue
+:red_circle: Photos - Outage
+:large_yellow_circle: iCloud Mail - Issue
+:large_yellow_circle: Apple School Manager - Issue
 :red_circle: Apple TV Channels - Outage
+:large_yellow_circle: iMessage - Issue
 :red_circle: Apple TV - Outage
 :red_circle: iTunes Store - Outage
 :large_yellow_circle: iWork for iCloud - Issue
