@@ -1,16 +1,1 @@
-:large_green_circle: Apple Podcasts Connect - Resolved Outage
-:large_green_circle: App Store - Advanced Commerce API - Resolved Outage
-:large_green_circle: App Store - In-App Purchases - Resolved Outage
-:large_green_circle: App Store - Receipt Verification - Resolved Outage
-:large_green_circle: App Store - Sandbox - Resolved Outage
-:large_green_circle: App Store - Server Notifications - Completed Maintenance
-:large_green_circle: Developer ID Notary Service - Resolved Outage
-:large_green_circle: App Store Connect - Resolved Outage
-:large_green_circle: App Store Connect - App Processing  - Resolved Outage
-:large_green_circle: News Publisher - Resolved Issue
-:large_green_circle: App Store Connect - Sales and Trends - Resolved Outage
-:large_green_circle: App Store Connect - TestFlight - Resolved Outage
-:large_green_circle: App Store Connect API - Resolved Outage
-:large_green_circle: Apple Music for Artists - Resolved Outage
-:large_green_circle: Apple News API - Resolved Issue
-:large_green_circle: Xcode Cloud - Resolved Outage
+:large_green_circle: All services are operating normally.
