@@ -3,7 +3,6 @@
 :large_green_circle: App Store - In-App Purchases - Resolved Outage
 :large_green_circle: App Store - Receipt Verification - Resolved Outage
 :large_green_circle: App Store - Sandbox - Resolved Outage
-:large_green_circle: App Store - Server Notifications - Completed Maintenance
 :large_green_circle: Developer ID Notary Service - Resolved Outage
 :large_green_circle: App Store Connect - Resolved Outage
 :large_green_circle: App Store Connect - App Processing  - Resolved Outage
