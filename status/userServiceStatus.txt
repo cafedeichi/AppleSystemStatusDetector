@@ -1,1 +1,3 @@
 :large_green_circle: Apple Business Manager - Resolved Issue
+:red_circle: Apple TV - Outage
+:red_circle: iTunes Store - Outage
