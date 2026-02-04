@@ -1,2 +1,2 @@
 :large_green_circle: App Store - In-App Purchases - Resolved Outage
-:large_yellow_circle: Xcode Cloud - Issue
+:large_yellow_circle: Xcode Cloud - 1 Issue, 1 Resolved Outage
