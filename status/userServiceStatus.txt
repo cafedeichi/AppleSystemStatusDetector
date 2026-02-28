@@ -1,4 +1,1 @@
-:large_green_circle: App Store - Resolved Issue
 :large_green_circle: Apple School Manager - Resolved Issue
-:large_green_circle: iTunes Store - Resolved Issue
-:large_green_circle: Mac App Store - Resolved Issue
