@@ -1,8 +1,1 @@
-:large_green_circle: Account - Completed Maintenance
-:large_green_circle: Certificates, Identifiers & Profiles - Completed Maintenance
-:large_green_circle: Code-level Support - Completed Maintenance
-:large_green_circle: Contact Us - Completed Maintenance
 :large_green_circle: App Store Connect - App Processing  - Resolved Performance
-:large_green_circle: Program Enrollment and Renewals - Completed Maintenance
-:large_green_circle: Xcode Automatic Configuration - Completed Maintenance
-:large_green_circle: Xcode Cloud - Completed Maintenance
