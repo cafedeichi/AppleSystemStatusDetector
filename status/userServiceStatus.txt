@@ -1,3 +1,4 @@
+:red_circle: Apple Music - Outage
 :large_green_circle: Apple School Manager - Resolved Issue
 :large_green_circle: Volume Purchase Program - Resolved Outage
 :large_green_circle: iTunes Store - Resolved Outage
