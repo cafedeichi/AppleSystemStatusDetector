@@ -1,1 +1,1 @@
-:red_circle: Weather - Outage
+:large_green_circle: Weather - Resolved Outage
