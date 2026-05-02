@@ -1,2 +1,2 @@
 :large_green_circle: Developer ID Notary Service - Resolved Performance
-:large_green_circle: App Store Connect - Sales and Trends - Upcoming Maintenance
+:white_circle: App Store Connect - Sales and Trends - Maintenance In Progress
