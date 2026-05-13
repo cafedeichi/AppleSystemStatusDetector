@@ -2,6 +2,7 @@
   "name": "AppleServiceStatusDetector",
   "version": "1.1.0",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,8 +13,6 @@
   "dependencies": {
     "@actions/core": "^3.0.1",
     "cheerio": "^1.2.0",
-    "fs": "0.0.1-security",
-    "path": "^0.12.7",
     "puppeteer": "^24.42.0"
   },
   "devDependencies": {},

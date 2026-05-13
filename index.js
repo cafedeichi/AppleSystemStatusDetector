@@ -1,8 +1,8 @@
-const puppeteer = require('puppeteer');
-const core = require('@actions/core');
-const Path = require('path');
-const cheerio = require('cheerio');
-const fs = require('fs');
+import puppeteer from 'puppeteer';
+import * as core from '@actions/core';
+import Path from 'path';
+import * as cheerio from 'cheerio';
+import fs from 'fs';
 
 // Puppeteer configuration
 const configuration = {
@@ -97,7 +97,7 @@ function getData(html) {
 
 function write(filePath, stream) {
     try {
-        fs.writeFileSync(Path.join(__dirname, filePath), stream, { flag: 'w+' });
+        fs.writeFileSync(Path.join(import.meta.dirname, filePath), stream, { flag: 'w+' });
     } catch (error) {
         core.setFailed(`Creating file failed with error ${error}`);
     }
