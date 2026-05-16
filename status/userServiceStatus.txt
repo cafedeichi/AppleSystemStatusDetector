@@ -1,1 +1,2 @@
 :large_green_circle: Apple Business - Resolved Performance
+:large_yellow_circle: Apple Cash - 1 Issue, 1 Resolved Issue
