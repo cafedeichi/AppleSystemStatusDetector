@@ -1,2 +1,2 @@
-:large_yellow_circle: Apple Business - Performance
-:large_yellow_circle: Apple School Manager - Performance
+:large_green_circle: Apple Business - Resolved Performance
+:large_green_circle: Apple School Manager - Resolved Performance
