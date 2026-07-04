@@ -45,12 +45,15 @@ let isAppStoreOutage = false;
 
 async function fetchPageContent(url, config) {
     const browser = await puppeteer.launch(config);
-    const page = await browser.newPage();
-    // Wait until the page load stabilizes
-    await page.goto(url, { waitUntil: 'networkidle0' });
-    const content = await page.content();
-    await browser.close();
-    return content;
+    try {
+        const page = await browser.newPage();
+        // Wait for the initial HTML, then wait for the status section we actually parse.
+        await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 60000 });
+        await page.waitForSelector('.section-lights', { timeout: 60000 });
+        return await page.content();
+    } finally {
+        await browser.close();
+    }
 }
 
 function getData(html) {
