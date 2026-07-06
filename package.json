@@ -13,7 +13,7 @@
   "dependencies": {
     "@actions/core": "^3.0.1",
     "cheerio": "^1.2.0",
-    "puppeteer": "^25.2.1"
+    "puppeteer": "^25.3.0"
   },
   "description": "Checking hourly for updates to Apple Service Status",
   "repository": {
