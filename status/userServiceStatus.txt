@@ -1,1 +1,1 @@
-:large_yellow_circle: Apple Business - Issue
+:large_green_circle: Apple Business - Resolved Issue
