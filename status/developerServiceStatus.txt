@@ -1,8 +1,8 @@
-:red_circle: App Attest - Outage
-:large_yellow_circle: App Store - Advanced Commerce API - Performance
-:large_yellow_circle: App Store - In-App Purchases - Performance
-:large_yellow_circle: App Store - Receipt Verification - Performance
-:large_yellow_circle: App Store - Sandbox - Performance
-:large_yellow_circle: App Store - Server APIs - Performance
-:large_yellow_circle: App Store - Server Notifications - Performance
-:red_circle: Device Check - Outage
+:large_yellow_circle: App Attest - Issue
+:large_green_circle: App Store - Advanced Commerce API - Resolved Performance
+:large_green_circle: App Store - In-App Purchases - Resolved Performance
+:large_green_circle: App Store - Receipt Verification - Resolved Performance
+:large_green_circle: App Store - Sandbox - Resolved Performance
+:large_green_circle: App Store - Server APIs - Resolved Performance
+:large_green_circle: App Store - Server Notifications - Resolved Performance
+:large_yellow_circle: Device Check - Issue
