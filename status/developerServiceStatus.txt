@@ -1,1 +1,8 @@
-:large_green_circle: All services are operating normally.
+:red_circle: App Attest - Outage
+:large_yellow_circle: App Store - Advanced Commerce API - Performance
+:large_yellow_circle: App Store - In-App Purchases - Performance
+:large_yellow_circle: App Store - Receipt Verification - Performance
+:large_yellow_circle: App Store - Sandbox - Performance
+:large_yellow_circle: App Store - Server APIs - Performance
+:large_yellow_circle: App Store - Server Notifications - Performance
+:red_circle: Device Check - Outage

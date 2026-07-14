@@ -1,1 +1,3 @@
-:large_green_circle: All services are operating normally.
+:red_circle: App Store - Outage
+:large_yellow_circle: Apple Business - Issue
+:red_circle: Subscription Purchase - Outage
