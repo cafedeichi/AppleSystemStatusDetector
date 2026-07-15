@@ -6,4 +6,4 @@
 :large_green_circle: App Store - Server APIs - Resolved Performance
 :large_green_circle: App Store - Server Notifications - Resolved Performance
 :large_green_circle: Device Check - Resolved Issue
-:large_green_circle: App Store Connect - Upcoming Maintenance
+:white_circle: App Store Connect - Maintenance In Progress
