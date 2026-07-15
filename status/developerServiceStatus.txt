@@ -1,9 +1,9 @@
-:large_yellow_circle: App Attest - Issue
+:large_green_circle: App Attest - Resolved Issue
 :large_green_circle: App Store - Advanced Commerce API - Resolved Performance
 :large_green_circle: App Store - In-App Purchases - Resolved Performance
 :large_green_circle: App Store - Receipt Verification - Resolved Performance
 :large_green_circle: App Store - Sandbox - Resolved Performance
 :large_green_circle: App Store - Server APIs - Resolved Performance
 :large_green_circle: App Store - Server Notifications - Resolved Performance
-:large_yellow_circle: Device Check - Issue
+:large_green_circle: Device Check - Resolved Issue
 :large_green_circle: App Store Connect - Upcoming Maintenance
