@@ -1,4 +1,4 @@
 :large_green_circle: App Attest - Resolved Issue
 :large_green_circle: Device Check - Resolved Issue
-:large_yellow_circle: App Store Connect - 1 Performance, 2 Completed Maintenances
-:large_yellow_circle: App Store Connect API - Performance
+:large_green_circle: App Store Connect - 1 Resolved Performance, 2 Completed Maintenances
+:large_green_circle: App Store Connect API - Resolved Performance
