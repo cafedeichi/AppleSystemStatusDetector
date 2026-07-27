@@ -1,1 +1,8 @@
-:large_green_circle: All services are operating normally.
+:red_circle: App Store - Outage
+:large_green_circle: Apple Business - Resolved Outage
+:red_circle: Podcasts - Outage
+:red_circle: Apple Music - Outage
+:red_circle: Apple Music Subscriptions - Outage
+:large_green_circle: Apple School Manager - Resolved Outage
+:red_circle: Apple TV - Outage
+:red_circle: AppleCare on Device - Outage

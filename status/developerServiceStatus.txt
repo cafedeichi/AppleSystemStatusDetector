@@ -1,1 +1,7 @@
-:large_green_circle: All services are operating normally.
+:large_green_circle: Apple Podcasts Connect - Resolved Performance
+:large_yellow_circle: App Store - In-App Purchases - Issue
+:large_yellow_circle: App Store - Receipt Verification - Issue
+:large_yellow_circle: App Store - Server APIs - Issue
+:large_yellow_circle: App Store - Server Notifications - Issue
+:large_green_circle: App Store Connect - Resolved Performance
+:large_green_circle: App Store Connect - TestFlight - Resolved Performance
