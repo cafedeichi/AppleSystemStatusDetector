@@ -1,7 +1,1 @@
-:large_green_circle: Apple Podcasts Connect - Resolved Performance
-:large_green_circle: App Store - In-App Purchases - Resolved Issue
-:large_green_circle: App Store - Receipt Verification - Resolved Issue
-:large_green_circle: App Store - Server APIs - Resolved Issue
-:large_green_circle: App Store - Server Notifications - Resolved Issue
 :large_green_circle: App Store Connect - Resolved Performance
-:large_green_circle: App Store Connect - TestFlight - Resolved Performance
