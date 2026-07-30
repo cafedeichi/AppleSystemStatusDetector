@@ -1,8 +1,1 @@
-:large_green_circle: App Store - Resolved Outage
-:large_green_circle: Apple Business - Resolved Outage
-:large_green_circle: Podcasts - Resolved Outage
-:large_green_circle: Apple Music - Resolved Outage
-:large_green_circle: Apple Music Subscriptions - Resolved Outage
-:large_green_circle: Apple School Manager - Resolved Outage
-:large_green_circle: Apple TV - Resolved Outage
-:large_green_circle: AppleCare on Device - Resolved Outage
+:red_circle: Subscription Purchase - Outage
