@@ -1,5 +1,6 @@
 :large_green_circle: App Store - Resolved Outage
 :large_green_circle: Mac App Store - Resolved Outage
+:large_yellow_circle: Apple Cash - Issue
 :large_green_circle: Subscription Purchase - Resolved Outage
 :large_green_circle: AppleCare on Device - Resolved Outage
 :large_green_circle: iTunes Store - Resolved Outage
