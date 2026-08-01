@@ -1,3 +1,2 @@
 :large_green_circle: App Store - Advanced Commerce API - Resolved Outage
 :large_green_circle: App Store - In-App Purchases - Resolved Outage
-:large_green_circle: App Store Connect - Resolved Performance
