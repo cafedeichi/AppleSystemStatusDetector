@@ -4,6 +4,7 @@
 :large_green_circle: App Store Connect - Analytics - Upcoming Maintenance
 :large_green_circle: App Store Connect - App Processing  - Upcoming Maintenance
 :large_green_circle: App Store Connect - App Upload - Upcoming Maintenance
+:large_green_circle: App Store Connect - Sales and Trends - Upcoming Maintenance
 :large_green_circle: App Store Connect - TestFlight - Upcoming Maintenance
 :large_green_circle: App Store Connect API - Upcoming Maintenance
 :large_green_circle: Apple Music for Artists - Upcoming Maintenance
