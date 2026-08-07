@@ -1,2 +1,2 @@
-:red_circle: App Store - Outage
+:large_green_circle: App Store - Resolved Outage
 :large_green_circle: Stocks - Resolved Performance
