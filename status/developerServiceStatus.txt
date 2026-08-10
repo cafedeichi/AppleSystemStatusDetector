@@ -1,5 +1,6 @@
 :large_green_circle: Apple Podcasts Connect - Completed Maintenance
 :large_green_circle: App Store - Sandbox - Completed Maintenance
+:large_green_circle: Device Enrollment Program - Resolved Outage
 :large_green_circle: App Store Connect - Completed Maintenance
 :large_green_circle: App Store Connect - Analytics - Completed Maintenance
 :large_green_circle: App Store Connect - App Processing  - Completed Maintenance
