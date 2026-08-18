@@ -1,5 +1,6 @@
 :large_yellow_circle: Find My - Issue
 :large_yellow_circle: Game Center - Issue
+:large_yellow_circle: iCloud Account & Sign In - Issue
 :large_yellow_circle: Photos - Issue
 :large_yellow_circle: iCloud Calendar - Issue
 :large_yellow_circle: iCloud Contacts - Issue
