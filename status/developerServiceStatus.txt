@@ -1,4 +1,2 @@
 :large_green_circle: App Store Connect - Completed Maintenance
-:large_green_circle: News Publisher - Resolved Issue
-:large_green_circle: Apple News API - Resolved Issue
-:large_green_circle: Xcode Cloud - 1 Resolved Outage, 1 Resolved Performance
+:large_green_circle: Xcode Cloud - Resolved Performance
