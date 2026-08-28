@@ -1,1 +1,2 @@
 :large_green_circle: Maps Display - Resolved Performance
+:large_yellow_circle: Subscription Purchase - Issue
