@@ -1,1 +1,1 @@
-:large_yellow_circle: Xcode Cloud - Issue
+:large_green_circle: Xcode Cloud - Resolved Issue
