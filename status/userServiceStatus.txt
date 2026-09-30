@@ -5,3 +5,4 @@
 :red_circle: Apple Music Subscriptions - Outage
 :red_circle: Subscription Purchase - Outage
 :large_yellow_circle: Apple TV - Issue
+:red_circle: AppleCare on Device - Outage
