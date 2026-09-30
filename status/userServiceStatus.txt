@@ -1,4 +1,5 @@
 :red_circle: App Store - Outage
+:red_circle: Mac App Store - Outage
 :red_circle: Apple Fitness+ - Outage
 :red_circle: Apple Music - Outage
 :red_circle: Apple Music Subscriptions - Outage
