@@ -1,2 +1,2 @@
-:large_yellow_circle: Apple TV - Issue
+:large_green_circle: Apple TV - Resolved Issue
 :large_green_circle: AppleCare on Device - Resolved Outage
