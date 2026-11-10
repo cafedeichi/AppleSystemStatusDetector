@@ -1,2 +1,8 @@
+:large_yellow_circle: Find My - Issue
+:red_circle: Game Center - Outage
+:red_circle: iCloud Calendar - Outage
 :large_green_circle: Podcasts - Resolved Performance
+:red_circle: iCloud Contacts - Outage
 :large_green_circle: Apple Music - Resolved Performance
+:red_circle: iCloud Mail - Outage
+:red_circle: iWork for iCloud - Outage
