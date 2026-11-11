@@ -2,9 +2,9 @@
 :red_circle: Game Center - Outage
 :red_circle: iCloud Account & Sign In - Outage
 :red_circle: Photos - Outage
-:red_circle: iCloud Calendar - Outage
+:large_green_circle: iCloud Calendar - Resolved Outage
 :large_green_circle: Podcasts - Resolved Performance
-:red_circle: iCloud Contacts - Outage
+:large_green_circle: iCloud Contacts - Resolved Outage
 :large_green_circle: Apple Music - Resolved Performance
-:red_circle: iCloud Mail - Outage
+:large_green_circle: iCloud Mail - Resolved Outage
 :large_yellow_circle: iWork for iCloud - Issue
