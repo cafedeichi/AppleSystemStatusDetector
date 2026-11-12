@@ -3,8 +3,6 @@
 :large_green_circle: iCloud Account & Sign In - Resolved Outage
 :large_green_circle: Photos - Resolved Outage
 :large_green_circle: iCloud Calendar - Resolved Outage
-:large_green_circle: Podcasts - Resolved Performance
 :large_green_circle: iCloud Contacts - Resolved Outage
-:large_green_circle: Apple Music - Resolved Performance
 :large_green_circle: iCloud Mail - Resolved Outage
 :large_green_circle: iWork for iCloud - Resolved Issue
