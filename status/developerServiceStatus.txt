@@ -1,1 +1,2 @@
 :large_green_circle: App Store - In-App Purchases - Resolved Outage
+:red_circle: App Store Connect - Outage
