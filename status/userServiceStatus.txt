@@ -1,2 +1,5 @@
+:red_circle: App Store - Outage
 :large_yellow_circle: iCloud Account & Sign In - Issue
+:red_circle: Apple Music - Outage
+:red_circle: AppleCare on Device - Outage
 :large_green_circle: Volume Purchase Program - Resolved Outage
