@@ -6,4 +6,4 @@
 :red_circle: App Store Connect - Sales and Trends - Outage
 :red_circle: Apple Music Connect - Outage
 :red_circle: Apple Music for Artists - Outage
-:large_yellow_circle: Xcode Cloud - 1 Issue, 1 Resolved Outage
+:large_green_circle: Xcode Cloud - 1 Resolved Outage, 1 Resolved Issue
