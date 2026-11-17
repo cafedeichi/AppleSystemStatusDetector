@@ -2,7 +2,7 @@
 :red_circle: Developer ID Notary Service - Outage
 :red_circle: App Store Connect - 2 Outages
 :red_circle: App Store Connect - Analytics - Outage
-:large_yellow_circle: News Publisher - Performance
+:large_green_circle: News Publisher - Resolved Performance
 :red_circle: App Store Connect - Sales and Trends - Outage
 :red_circle: Apple Music Connect - Outage
 :red_circle: Apple Music for Artists - Outage
