@@ -1,4 +1,8 @@
 :large_green_circle: App Store - In-App Purchases - Resolved Outage
 :red_circle: App Store Connect - 2 Outages
+:red_circle: App Store Connect - Analytics - Outage
 :large_yellow_circle: News Publisher - Performance
+:red_circle: App Store Connect - Sales and Trends - Outage
+:red_circle: Apple Music Connect - Outage
+:red_circle: Apple Music for Artists - Outage
 :red_circle: Xcode Cloud - Outage
