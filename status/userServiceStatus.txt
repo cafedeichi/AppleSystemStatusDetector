@@ -5,5 +5,5 @@
 :large_yellow_circle: Schoolwork - Issue
 :large_yellow_circle: Apple School Manager - Issue
 :large_yellow_circle: iCloud Web Apps (iCloud.com) - Performance
-:red_circle: AppleCare on Device - Outage
+:large_green_circle: AppleCare on Device - Resolved Outage
 :large_green_circle: Volume Purchase Program - 2 Resolved Outages
