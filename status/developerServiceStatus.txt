@@ -1,4 +1,4 @@
 :large_green_circle: App Store - In-App Purchases - Resolved Outage
-:red_circle: App Store Connect - Outage
+:red_circle: App Store Connect - 2 Outages
 :large_yellow_circle: News Publisher - Performance
 :red_circle: Xcode Cloud - Outage

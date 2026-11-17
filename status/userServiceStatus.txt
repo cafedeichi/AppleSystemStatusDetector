@@ -1,6 +1,8 @@
 :red_circle: Apple Business - Outage
 :large_yellow_circle: iCloud Account & Sign In - Issue
+:red_circle: iCloud Mail - Outage
 :red_circle: Schoolwork - Outage
 :red_circle: Apple School Manager - Outage
+:red_circle: iCloud Web Apps (iCloud.com) - Outage
 :red_circle: AppleCare on Device - Outage
 :large_green_circle: Volume Purchase Program - Resolved Outage
