@@ -1,8 +1,3 @@
-:red_circle: Account - Outage
-:red_circle: Apple Podcasts Connect - Outage
 :large_green_circle: App Store - In-App Purchases - Resolved Outage
 :red_circle: App Store Connect - Outage
-:red_circle: App Store Connect API - Outage
-:red_circle: Apple Music API - Outage
-:red_circle: Apple Music Connect - Outage
-:red_circle: Apple Music for Artists - Outage
+:red_circle: Xcode Cloud - Outage
