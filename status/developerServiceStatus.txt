@@ -1,6 +1,6 @@
 :large_green_circle: App Store - In-App Purchases - Resolved Outage
 :large_green_circle: Developer ID Notary Service - Resolved Outage
-:red_circle: App Store Connect - 2 Outages
+:large_green_circle: App Store Connect - 2 Resolved Outages
 :large_green_circle: App Store Connect - Analytics - Resolved Outage
 :large_green_circle: News Publisher - Resolved Performance
 :large_green_circle: App Store Connect - Sales and Trends - Resolved Outage
