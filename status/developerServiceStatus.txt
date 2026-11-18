@@ -1,9 +1,9 @@
 :large_green_circle: App Store - In-App Purchases - Resolved Outage
 :red_circle: Developer ID Notary Service - Outage
 :red_circle: App Store Connect - 2 Outages
-:red_circle: App Store Connect - Analytics - Outage
+:large_green_circle: App Store Connect - Analytics - Resolved Outage
 :large_green_circle: News Publisher - Resolved Performance
-:red_circle: App Store Connect - Sales and Trends - Outage
-:red_circle: Apple Music Connect - Outage
-:red_circle: Apple Music for Artists - Outage
+:large_green_circle: App Store Connect - Sales and Trends - Resolved Outage
+:large_green_circle: Apple Music Connect - Resolved Outage
+:large_green_circle: Apple Music for Artists - Resolved Outage
 :large_green_circle: Xcode Cloud - 1 Resolved Outage, 1 Resolved Issue
