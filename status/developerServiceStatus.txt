@@ -1,4 +1,5 @@
 :large_green_circle: App Store - Advanced Commerce API - Resolved Issue
+:large_green_circle: App Store - Server APIs - Resolved Issue
 :large_green_circle: Developer ID Notary Service - Resolved Outage
 :large_green_circle: App Store Connect - 2 Resolved Outages
 :large_green_circle: App Store Connect - Analytics - Resolved Outage
