@@ -1,2 +1,1 @@
-:large_green_circle: App Store - Advanced Commerce API - Resolved Issue
-:large_green_circle: App Store - Server APIs - Resolved Issue
+:large_green_circle: All services are operating normally.
